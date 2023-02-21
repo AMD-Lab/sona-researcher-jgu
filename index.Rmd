@@ -1,0 +1,54 @@
+--- 
+title: "Einführung in R"
+author: |
+ José Carlos García Alanis, Jan Goettmann, Cordula Hunt,  
+ Florian Kobylka, Wanja Hemmerich, Christoph Löffler, Lisa Renziehausen, Anna-Lena Schubert, Meike Steinhilber
+ 
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+url: https://amd-lab.github.io/R-Kurs-Unterlagen/index.html
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  Dies ist eine Einführung in R, die in verschiedenen Lehrveranstaltungen der Arbeitseinheiten *Analyse und Modellierung komplexer Daten* und *Methodenlehre und Statistik* des Psychologischen Instituts der Johannes Gutenberg-Universität Mainz genutzt werden.
+
+link-citations: yes
+github-repo:  AMD-Lab/R-Kurs-Buch
+lang: de
+
+---
+
+```{r include=FALSE}
+options(width = 60)
+options(warning.length = 100)
+```
+
+# Über dieses Skript
+
+Dies ist eine Einführung in die Programmiersprache `R`, die in verschiedenen Lehrveranstaltungen der Arbeitseinheiten *Analyse und Modellierung komplexer Daten* und *Methodenlehre und Statistik* des Psychologischen Instituts der Johannes Gutenberg-Universität Mainz genutzt werden kann. `R` ist eine unter Psycholog:innen weit verbreitete Programmiersprache, mit deren Hilfe unterschiedlichste Datenarten aufbereitet und analysiert werden können. Das Programm ist *Open Source* und es gibt eine riesige Community von Entwickler:innen, die an Erweiterungen für die Software arbeiten, um Forschenden das (datenanalytische) Leben zu erleichtern.
+
+Dieses Skript wurde als Begleitmaterial für verschiedene Lehrveranstaltungen entwickelt, in denen mit `R` gearbeitet wird. Es kann als Kursmaterial, aber auch als Nachschlagewerk verwendet werden. Nicht alle Inhalte des Skripts sind für jeden Kurs relevant. Ihre Kursleitung wird Ihnen mitteilen, wann Sie welche Teile des Skripts bearbeiten sollen. Sie können sich natürlich darüber hinaus jederzeit weiter umschauen, welche Möglichkeiten `R` noch bietet!
+
+<br>
+```{r echo = FALSE, out.width = '75%', fig.align = "center", fig.alt = c('Ein digitaler Cartoon mit zwei Illustrationen: Die obere zeigt das R-Logo mit einem furchteinflößenden Gesicht und ein kleines, verängstigtes, wuscheliges Monster, das unter einer dunklen Gewitterwolke eine weiße Fahne hochhält, um sich zu ergeben. Der Text darüber lautet: "at first I was like…". Der untere Cartoon zeigt ein freundliches, lächelndes R-Logo, das aufspringt, um einem glücklichen, unscharfen Monster unter einer lächelnden Sonne und neben bunten Blumen ein High-Five zu geben. Der Text über der unteren Illustration lautet "but now it’s like…"')}
+fig_url = 'https://raw.githubusercontent.com/allisonhorst/stats-illustrations/master/rstats-artwork/r_first_then.png'
+if (!file.exists(fig_file <- '_static/r_first_then.png'))
+  download.file(fig_url, fig_file, mode = 'wb')
+knitr::include_graphics(if (identical(knitr:::pandoc_to(), 'html')) fig_url else fig_file)
+```
+<center>
+Artwork by [Allison Horst](https://github.com/allisonhorst/stats-illustrations)
+</center>
+
+## Feedback
+
+Derzeit ist das Skript ein lebendiges Dokument, das auf Basis von Rückmeldungen ständig überarbeitet und verbessert wird. Sollten Ihnen Fehler im Skript auffallen oder sollten Sie sonstiges Feedback haben, freuen wir uns sehr, wenn Sie uns eine E-Mail senden. Schreiben Sie einfach eine E-Mail an [amd_lab@uni-mainz.de](mailto:amd_lab@uni-mainz.de?subject=R-Kurs-Unterlagen).
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
