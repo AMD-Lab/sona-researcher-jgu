@@ -1,20 +1,15 @@
 --- 
-title: "Einführung in R"
-author: |
- José Carlos García Alanis, Jan Goettmann, Cordula Hunt,  
- Florian Kobylka, Wanja Hemmerich, Christoph Löffler, Lisa Renziehausen, Anna-Lena Schubert, Meike Steinhilber
- 
+title: "Sona Researcher Handbuch"
+author: "Clara Wiebel"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
-url: https://amd-lab.github.io/R-Kurs-Unterlagen/index.html
+bibliography: [packages.bib]
+url: https://amd-lab.github.io/sona-researcher-jgu/index.html
 # cover-image: path to the social sharing image like images/cover.jpg
-description: |
-  Dies ist eine Einführung in R, die in verschiedenen Lehrveranstaltungen der Arbeitseinheiten *Analyse und Modellierung komplexer Daten* und *Methodenlehre und Statistik* des Psychologischen Instituts der Johannes Gutenberg-Universität Mainz genutzt werden.
-
+description: "Dies ist das Handbuch für Sona für Researcher"
 link-citations: yes
-github-repo:  AMD-Lab/R-Kurs-Buch
+github-repo:  AMD-Lab/sona-researcher-jgu
 lang: de
 
 ---
@@ -37,9 +32,7 @@ if (!file.exists(fig_file <- '_static/r_first_then.png'))
   download.file(fig_url, fig_file, mode = 'wb')
 knitr::include_graphics(if (identical(knitr:::pandoc_to(), 'html')) fig_url else fig_file)
 ```
-<center>
-Artwork by [Allison Horst](https://github.com/allisonhorst/stats-illustrations)
-</center>
+
 
 ## Feedback
 

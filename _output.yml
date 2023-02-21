@@ -7,9 +7,9 @@ bookdown::gitbook:
       twitter: false
     toc:
       before: |
-        <li><a href="./">Einführung in R</a></li>
+        <li><a href="./">Sona Researcher Handbuch</a></li>
       after: |
-        <li><a href="https://github.com/AMD-Lab/R-Kurs-Buch" target="blank">
+        <li><a href="https://github.com/AMD-Lab/sona-researcher-handbuch" target="blank">
         Veröffentlicht auf GitHub, erstellt mit bookdown</a></li>
 
     download: pdf
