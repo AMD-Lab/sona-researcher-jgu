@@ -3,3 +3,7 @@
 
 # jet brains
 .idea/
+
+.DS_Store
+docs/
+packages.bib
