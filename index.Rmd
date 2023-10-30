@@ -25,7 +25,7 @@ options(warning.length = 100)
 
 Dies ist das Sona-Handbuch für Forscher*innen. Falls Sie Versuchsperson sind, gelangen Sie hier (Link) zum Sona-Handbuch für Versuchspersonen.
 
-Website: https://uni-mainz-jgu.sona-systems.com
+Sona-Website der Universität Mainz: https://uni-mainz-jgu.sona-systems.com
 
 
 
@@ -112,8 +112,8 @@ Bitte beachten Sie: Bevor Sie Ihre Studie auf „active“ setzen, sollten Sie d
 1.	Loggen Sie sich mit Ihrem Forschenden-Account auf https://uni-mainz-jgu.sona-systems.com ein.
 2.	Klicken Sie in der Menüleiste auf `My Studies` und klicken Sie auf den Titel der betreffenden Studie.
 3.	Wählen Sie im `Study Menu` (entweder oben oder ganz unten auf der Website) den Unterpunkt `Change Study Information` aus.
-  a.	Klicken Sie unter `Active Study?` auf „Yes“, um Ihre Studie aktiv zu setzen. 
-  b.	Klicken Sie unter `Approved?` auf den Knopf `Send an Approval Request`, um eine Genehmigung Ihrer Studie durch die Administration zu beantragen. 
+    a.	Klicken Sie unter `Active Study?` auf „Yes“, um Ihre Studie aktiv zu setzen. 
+    b.	Klicken Sie unter `Approved?` auf den Knopf `Send an Approval Request`, um eine Genehmigung Ihrer Studie durch die Administration zu beantragen. 
 4.	Klicken Sie auf den grünen Knopf `Save Changes`, um Ihre Änderungen zu speichern.
 
 
@@ -169,9 +169,16 @@ Wenn Sie eine Online-Studie durchführen, sollten Sie nur einen einzigen Timeslo
 1.	Klicken Sie im Hauptmenü auf `My Studies` und dann auf den Titel Ihrer Studie.
 2.	Wählen Sie im Study Menu (ganz oben und ganz unten auf der Seite) den Punkt `View/Administer Time Slots`. 
 3.	Sie sehen nun eine Liste der aktuellen Timeslots. Timeslots, die in der Vergangenheit liegen und für die sich keine Teilnehmer\*innen angemeldet haben, werden nicht angezeigt.
+
+
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie18.png') 
+```
+
+
 4.	Klicken Sie für den Timeslot, den Sie ändern oder löschen möchten, rechts auf `Modify`.
-  a.	Ändern: Ändern Sie die gewünschten Informationen und klicken Sie auf den Knopf `Update Timeslot`. Achtung: Bereits für diesen Timeslot angemeldete Versuchspersonen werden nicht (per E-Mail) über die von Ihnen vorgenommenen Änderungen benachrichtigt. Sie sollten sich daher mit den angemeldeten Versuchspersonen in Verbindung setzen, wenn Sie sie über Ihre Änderungen informieren möchten (sehen Sie hierzu den Abschnitt „Angemeldete Versuchspersonen kontaktieren“ in diesem Handbuch).
-  b.	Löschen: Sie können keine Timeslots löschen, für die sich bereits Versuchspersonen angemeldet haben. Dafür müssen Sie zuerst alle bestehenden Anmeldungen für diese Timeslots stornieren (sehen Sie hierzu den Abschnitt Termine absagen/ Versuchspersonen abmelden“ in diesem Handbuch). Klicken Sie danach auf den Knopf `Delete` und bestätigen Sie Ihre Eingabe erneut, um den Timeslot zu löschen.
+    a.	Ändern: Ändern Sie die gewünschten Informationen und klicken Sie auf den Knopf `Update Timeslot`. Achtung: Bereits für diesen Timeslot angemeldete Versuchspersonen werden nicht (per E-Mail) über die von Ihnen vorgenommenen Änderungen benachrichtigt. Sie sollten sich daher mit den angemeldeten Versuchspersonen in Verbindung setzen, wenn Sie sie über Ihre Änderungen informieren möchten (sehen Sie hierzu den Abschnitt „Angemeldete Versuchspersonen kontaktieren“ in diesem Handbuch).
+    b.	Löschen: Sie können keine Timeslots löschen, für die sich bereits Versuchspersonen angemeldet haben. Dafür müssen Sie zuerst alle bestehenden Anmeldungen für diese Timeslots stornieren (sehen Sie hierzu den Abschnitt Termine absagen/ Versuchspersonen abmelden“ in diesem Handbuch). Klicken Sie danach auf den Knopf `Delete` und bestätigen Sie Ihre Eingabe erneut, um den Timeslot zu löschen.
 
 
 ## Wie lange dauert es, bis meine Studie auf Sona genehmigt („approved“) ist?
@@ -227,6 +234,241 @@ Auf Sona helfen oft ein kreativer Name sowie eine informative und originelle Bes
 Bitte sehen Sie ferner davon ab, Werbung für Ihre Studie über den E-Mail-Verteiler der Fachschaft zu senden. Dies ist nicht erwünscht, da der Verteiler fortan ausschließlich für Fachschafts-Inhalte genutzt wird. Eine Missachtung führt dazu, dass Ihre E-Mail-Adresse für den Verteiler blockiert wird. 
 
 
+
+# Versuchspersonen verwalten
+
+
+## Ab wann können sich Versuchspersonen für meine Studie anmelden?
+
+Versuchspersonen können Ihre Studie erst in Sona sehen und sich für diese anmelden, wenn Ihre Studie sowohl „active“ als auch „approved“ ist. Sie können Ihre Studie selbst auf „active“ setzen, die Studie genehmigen („approve“) kann allerdings nur die Administration. Wie Sie Ihre Studie auf „active“ setzen und eine Genehmigung beantragen, lesen Sie in diesem Handbuch ganz unten unter „Studien einstellen“.
+
+
+## Versuchspersonen manuell anmelden
+
+Für den Fall, dass Sie persönlich einen Termin mit einer Versuchsperson ausgemacht haben oder Versuchspersonen spontan zu Ihrer Erhebung erscheinen dürfen, können Sie diese Versuchspersonen manuell zur Studie anmelden. 
+
+Dafür müssen zwei Voraussetzungen gegeben sein: (1) Die Versuchsperson, die Sie anmelden möchten, hat ein Sona Konto. (2) Es muss bereits einen freien Timeslot geben, zu dem Sie die Versuchsperson anmelden. Wenn Sie also einen offenen Erhebungszeitraum planen, stellen Sie vorher einen oder mehrere Timeslots für Ihre Studie ein mit jeweils so vielen Plätzen, wie Versuchspersonen gleichzeitig an Ihrer Studie teilnehmen können.
+
+Um Versuchspersonen manuell für Ihre Studie anzumelden, gehen Sie wie folgt vor.
+
+
+1.	Klicken Sie in der Menüleiste auf „My Studies“ und dann auf den Namen der betreffenden Studie.
+2.	Wählen Sie im Study Menu (ganz oben und ganz unten auf der Seite) den Punkt `View/Admister Time Slots`. 
+3.	Klicken Sie bei dem Timeslot, für den Sie die Versuchsperson anmelden wollen, rechts auf `Modify`.
+4.	Ganz unten auf der Seite finden Sie den Abschnitt `Manual Sign-Up`. Hier können Sie entweder die User ID (Benutzername auf Sona) oder den vollen Namen der Versuchsperson eintragen.
+5.	Klicken Sie auf den grünen Knopf `Sign Up`, um die Anmeldung abzuschließen und bestätigen Sie die Eingabe erneut mit `Sign Up`. 
+
+
+
+## Wo sehe ich, wer sich für meine Studie(n) angemeldet hat? 
+
+Sie erhalten immer eine System-E-Mail, sobald sich Versuchspersonen für Ihre Studie anmelden. Zudem können Sie am Vortag des Termins mit einer Versuchsperson eine Reminder-E-Mail erhalten. Ob Sie diese Reminder-E-Mail erhalten oder nicht, können Sie ganz unten unter `My Profile` ändern. 
+
+Um eine Liste von Anmeldungen für Ihrer Studie zu erhalten, gehen Sie bitte wie folgt vor.
+
+1.	Klicken Sie in der Menüleiste auf `My Studies`.
+    a.	Alternative A: Klicken Sie auf `View Printer-Friendly List of Signups`, um eine Liste von Versuchspersonen zu erhalten, die an einem bestimmten Tag für irgendeine Ihrer Studien angemeldet sind.
+    b. Alternative B: Klicken Sie auf den Titel einer bestimmten Studie und wählen Sie im `Study Menu` (entweder oben oder ganz unten auf der Website) den Unterpunkt `View/Administer Time Slots` aus. Hier können Sie in der Menüleiste wählen, ob Sie 
+        * alle Timeslots (`All Timeslots`), 
+        * aktuelle Timeslots (`recent Timeslots`), 
+        * anstehende Timeslots (`Upcoming Timeslots`) oder 
+        * ältere Timeslots (`Older Timeslots`) sehen möchten. 
+
+
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie19.png') 
+```
+
+
+
+## Angemeldete Versuchspersonen kontaktieren
+
+Sie haben zwei Möglichkeiten, um für Ihre Studie angemeldete Versuchspersonen zu kontaktieren: 
+
+* Per E-Mail: Dies ist der Standard, um Versuchspersonen zu kontaktieren. Insbesondere wenn es um einen Termin geht, der nicht noch am selben Tag stattfinden soll, kontaktieren Sie die Versuchsperson bitte per E-Mail.
+* Ggf. telefonisch: Bitte kontaktieren Sie Versuchspersonen nur in Notfällen telefonisch, beispielsweise wenn diese nicht zu ihrem angemeldeten Termin erscheinen, Sie selbst sich zum Termin verspäten oder den vereinbarten Termin sehr kurzfristig absagen müssen. Bitte beachten Sie, dass Versuchspersonen nicht dazu verpflichtet sind, ihre Handynummer auf Sona anzugeben, sodass Sie manche Versuchspersonen ggf. nicht telefonisch erreichen können. Kontaktieren die diese Versuchspersonen bitte per E-Mail.
+
+
+<b>Kontaktierung per E-Mail </b>
+
+1.	Klicken Sie in der Menüleiste auf `My Studies` und klicken Sie den Namen der betreffenden Studie an. 
+2.	Wählen Sie im Study Menu (ganz oben und ganz unten auf der Seite) den Punkt `View/Admister Time Slots`. 
+3.	Klicken Sie beim betreffenden Timeslot rechts auf `Modify`.
+    a.	Klicken Sie unter dem Namen einer Versuchsperson auf `Contact`, um diese Person einzeln zu kontaktieren.
+    b.	Oder: Klicken Sie ganz unten auf den grauen Knopf `Contact All Participants`, um alle für diesen Timeslot angemeldeten Versuchspersonen zu kontaktieren.
+
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie20.png') 
+```
+
+
+4.	Geben Sie im grauen Feld die E-Mail an die Versuchspersonen ein. Sie können den Standard-Text, der bereits eingefügt ist, löschen. Sie haben zudem die Möglichkeit, die E-Mail erst mit einer Zeitverzögerung vom System abschicken lassen. Dies können Sie unter `Emailing Delay` einstellen. 
+5.	Klicken Sie auf `Preview Messages…`, um Ihre E-Mail zu überprüfen.
+6.	Klicken Sie auf `Proceed`, um die E-Mail abzuschicken.
+
+
+<b> Telefonische Kontaktierung </b>
+
+1.	Klicken Sie in der Menüleiste auf `My Studies` und klicken Sie den Namen der betreffenden Studie an. 
+2.	Wählen Sie im Study Menu (ganz oben und ganz unten auf der Seite) den Punkt `View/Admister Time Slots`. 
+3.	Klicken Sie beim betreffenden Timeslot rechts auf `Modify`.
+4.	Wenn die Versuchsperson Ihre Handynummer auf Sona angegeben hat, sehen Sie diese direkt unter ihrem Namen. Rufen Sie diese Nummer an, um die Versuchsperson zu kontaktieren. Falls Sie dort keine Handynummer sehen, kontaktieren Sie die Versuchsperson bitte per E-Mail. 
+
+
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie21.png') 
+```
+
+
+## Termine absagen / Versuchspersonen abmelden
+
+Angemeldete Versuchspersonen dürfen nur im Notfall (z.B. bei Erkrankung der Versuchsleitung ohne Vertretungsmöglichkeit) durch die Versuchsleitung wieder abgemeldet werden. Dies betrifft natürlich nicht diejenigen Abmeldungen, die auf Wunsch der Versuchsperson hin erfolgen. 
+
+Um einen Termin abzusagen bzw. eine angemeldete Versuchsperson von Ihrer Studie abzumelden, gehen Sie wie folgt vor.
+
+1.	Klicken Sie in der Menüleiste auf `My Studies` und klicken Sie auf den Namen der betreffenden Studie. 
+2.	Wählen Sie im Study Menu (ganz oben und ganz unten auf der Seite) den Punkt `View/Administer Time Slots`. 
+3.	Klicken Sie beim betreffenden Timeslot rechts auf `Modify`.
+    a.	Klicken Sie unter dem Namen einer bestimmten Versuchsperson auf `Cancel`, um nur den Termin dieser Person abzusagen.
+    b.	Oder: Klicken Sie unten rechts auf den roten Knopf `Cancel All Sign-Ups for this Timeslot`, um allen Versuchspersonen für diesen Timeslot abzusagen.
+    
+    
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie22.png') 
+```
+
+
+4.	Im darauffolgenden Fenster sehen Sie eine Zusammenfassung des Timeslots. Wenn Sie einen Timeslot (Termin) absagen, erhalten die dafür angemeldeten Versuchspersonen automatisch eine E-Mail. Falls Sie dieser E-Mail etwas hinzufügen möchten (z.B. den Grund für Ihre Absage), schreiben Sie dies bitte in das Textfeld `Message for participants`. 
+5.	Bestätigen Sie die Absage mit dem roten Knopf `Yes, perform cancellations`. 
+
+
+## Was tue ich, wenn angemeldete Versuchspersonen nicht zu ihrem Termin erscheinen?
+
+<b>Bei Laborstudien </b>
+Wenn eine angemeldete Versuchsperson nicht zu ihrem Termin erscheint, versuchen Sie zunächst, die Versuchsperson telefonisch zu kontaktieren (sehen Sie hierzu den Abschnitt „Angemeldete Versuchspersonen kontaktieren“ in diesem Handbuch). Es kann sein, dass sich die Versuchsperson lediglich verspätet oder den Raum nicht findet. Falls die Versuchsperson nicht erreichbar ist oder keine Handynummer angegeben hat, senden Sie ihr bitte eine E-Mail.
+
+Erscheint die Versuchsperson schlussendlich nicht zu ihrem Termin, tragen Sie die Person bitte als „No-Show“ ein: 
+
+1.	Klicken Sie in der Menüleiste auf `My Studies` und klicken Sie den Namen der betreffenden Studie an. 
+2.	Wählen Sie im Study Menu (ganz oben und ganz unten auf der Seite) den Punkt `View/Admister Time Slots`. 
+3.	Klicken Sie beim Timeslot der betreffenden Versuchsperson rechts auf `Modify`.
+4.	Wählen Sie, je nach Situation, entweder auf `Excused` (entschuldigtes Fehlen) oder `Unexcused` (unentschuldigtes Fehlen).
+
+
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie23.png') 
+```
+
+5.	Klicken Sie auf `Update Sign-Ups`, um Ihre Eingabe zu bestätigen. Die Versuchsperson wird per E-Mail über Ihre Markierung informiert.
+
+Sollte eine Versuchsperson wiederholt nicht zu vereinbarten Terminen erscheinen, behält sich die Administration vor, weitere Schritte einzuleiten. 
+
+
+<b>Bei Online Studien </b>
+Wenn Versuchspersonen sich für Ihre Online-Studie anmelden, aber nicht oder nicht vollständig an dieser teilnehmen, vergeben Sie bitte ein „Excused No-Show“. Der Grund hierfür ist, dass nicht nachvollzogen werden kann, aus welchen Gründen die Versuchsperson nicht (vollständig) an der Studie teilgenommen hat. Beispielsweise könnte sie sich beim Lesen der Studieninformationen oder Einverständniserklärung gegen eine Teilnahme an der Studie entschieden haben. 
+
+
+
+# Vergütung
+
+## Wie viele VP-Stunden darf ich vergeben?
+
+Die Anzahl der Versuchspersonen-Stunden (VP-Stunden), die Sie für die Teilnahme an einer Studie vergeben dürfen, entspricht der Dauer der Studie. Für die zusätzliche Zeit, die bei der An- und Abreise im Rahmen der Teilnahme an Laborstudien anfällt, können Versuchspersonen zusätzlich 0,25 VP-Stunden Wegzeit gutgeschrieben werden. Da die kleinste Einheit einer VP-Stunde ein Viertel VP-Stunde (0,25) ist, wird im Zweifelsfall aufgerundet.
+
+* Beispiel 1: Eine Online-Studie dauert 10 Minuten. Für die Teilnahme können Sie 0,25 VP-Stunden vergeben.
+* Beispiel 2: Eine Laborstudie dauert 70 Minuten (1,25 VP-Stunden). Für die Wegzeit können Sie zusätzlich 0,25 VP-Stunden vergeben. Somit können Sie für die Teilnahme an dieser Studie insgesamt 1,5 VP-Stunden vergeben. 
+
+Bei Laborstudien zählt eine ggf. nötige Vor- und Nachbereitungszeit, bei der die Versuchsperson anwesend ist, selbstverständlich zur Dauer der Studie dazu. Bei Laborstudien kann es zudem passieren, dass die Studie länger oder kürzer dauert als geplant. In diesem Fall können Sie die vergebenen VP-Stunden anpassen (sehen Sie dazu den Abschnitt „Was ist, wenn eine Studie länger oder kürzer dauert als geplant?“ in diesem Handbuch). Falls eine Versuchsperson die Teilnahme an einer Laborstudie vorzeitig abbricht, vergeben Sie ihr bitte so viele VP-Stunden, wie sie Zeit im Experiment verbracht hat. 
+
+
+
+## Was ist, wenn eine Studie länger oder kürzer dauert als geplant?
+
+Wenn eine Laborstudie länger dauert als geplant, können Sie die vergebenen VP-Stunden anpassen (lesen Sie auch den Abschnitt „Wie vergebe ich die VP-Stunden nach erfolgreicher Teilnahme an meiner Studie“). Fügen Sie bei der Vergabe der VP-Stunden bitte einen entsprechenden Kommentar bei. 
+Wenn eine Versuchsperson in Ihrer Studie sehr schnell war, müssen Sie ihr dennoch die in der Studienbeschreibung genannten VP-Stunden vergeben. Nur wenn Versuchspersonen die Teilnahme an Ihrer Studie abbrechen, können Sie weniger VP-Stunden vergeben. Vergeben Sie in diesem Fall bitte so viele VP-Stunden, wie die Versuchsperson Zeit im Experiment verbracht hat. 
+Vergeben Sie bei Online-Studien bitte immer die in der Studienbeschreibung genannten VP-Stunden, vorausgesetzt die Versuchsperson hat vollständig an Ihrer Studie teilgenommen. Falls nicht, vergeben Sie bitte 0 (null) VP-Stunden.
+
+
+
+##Kann ich die Versuchsteilnahme durch besondere Anreize (z.B. Teilnahme an einer Lotterie) zusätzlich vergüten?
+
+Aus Gründen der Fairness gegenüber anderen Forschenden ist es nicht vorgesehen, dass Studien, die mit VP-Stunden vergütet werden, zusätzlich mit Geld oder einer alternativen Vergütung entlohnt werden. Wahlweise eine Alternative zur Vergütung mit VP-Stunden anzubieten (z.B. VP-Stunden oder Geld) ist natürlich zulässig. Von dieser Regel ausgenommen sind kleine nicht-monetäre Anreize während der Studie wie z.B. Schokolade. Weiterhin können bei Studien, deren Versuchsdesign das Auszahlen zusätzlicher Anreize vorsieht (z. B. im Rahmen leistungsabhängiger Belohnung), Ausnahmen gemacht werden. Kontaktieren Sie dazu im Zweifelsfall die Administration, um Details zu besprechen.
+
+
+
+## Wie vergebe ich die VP-Stunden nach erfolgreicher Teilnahme an meiner Studie? 
+
+
+<b>Für Laborstudien </b>
+
+Wenn Versuchspersonen erfolgreich an Ihrer Laborstudie teilgenommen haben, vergeben Sie bitte die entsprechenden VP-Stunden innerhalb von 3 Werktagen. 
+
+1.	Klicken Sie in der Menüleiste auf `My Studies` und klicken Sie auf Namen der betreffenden Studie. 
+2.	Wählen Sie im Study Menu (ganz oben und ganz unten auf der Seite) den Punkt `View/Admister Time Slots`. 
+3.	Klicken Sie beim Timeslot der betreffenden Versuchsperson rechts auf `Modify`.
+    a.	Klicken Sie bei `Credit Granted` auf den kleinen Punkt, um die angezeigt Anzahl an VP-Stunden zu vergeben.
+    b.	Falls die Studie länger oder kürzer gedauert hat als geplant, können Sie die Anzahl der vergebenen VP-Stunden im Drop-Down Menü unter dem Punkt anpassen. Hinterlassen Sie in diesem Fall bitte einen kurzen Kommentar in der Spalte rechts. Sie müssen, auch wenn eine Versuchsperson sehr schnell war, immer die in der Studienbeschreibung genannten VP-Stunden vergeben. Nur wenn Versuchspersonen Ihre Teilnahme an der Studie abbrechen, können Sie weniger VP-Stunden vergeben.
+c.	Falls Sie alternativ zu VP-Stunden eine andere Vergütung für die Studienteilnahme angeboten haben und die Versuchsperson diese alternative Vergütung gewählt hat, wählen Sie bitte unter `Credit granted` 0 VP-Stunden aus. Vermerken Sie die alternative Vergütung bitte in der Kommentarspalte rechts.
+4.	Klicken Sie auf `Update Sign-Ups`, um Ihre Eingabe zu speichern.
+
+
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie24.png')
+```
+
+
+Wenn Sie sich im Hauptmenü befinden (direkt nach der Anmeldung), sehen Sie außerdem den Menüpunkt `View Uncredited Timeslots`. Hier gelangen Sie direkt zu einer Übersicht über alle Timeslots Ihrer Laborstudien, die bereits in der Vergangenheit liegen, aber immer noch den Status „Awaiting Action“ haben. Bitte prüfen Sie regelmäßig dieses Feld und updaten Sie die Timeslots (Vergabe von „No Shows“ für Nichtteilnahme bzw. Vergabe von VP-Stunden bei Teilnahme). 
+
+
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie25.png') 
+```
+
+Sollten Sie die Vergabe der VP-Stunden nicht zeitnah erledigen, erhalten Sie System-E-Mails von Sona, die sie darauf hinweisen. Eine automatisierte Vergabe von VP-Stunden durch Sona kann nicht erfolgen. 
+
+
+<b>Für Online-Studien </b>
+
+Tbd To be done! 
+
+
+
+# Sonstiges
+
+
+## Passwort vergessen?
+
+Wenn Sie Ihr Passwort vergessen haben, können Sie Ihr Passwort zurücksetzen. 
+
+1.	Besuchen Sie die Startseite von Sona: https://uni-mainz-jgu.sona-systems.com 
+2.	Klicken Sie rechts auf den Knopf `Passwort vergessen?`
+
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie26.png') 
+```
+
+
+3.	Geben Sie im erscheinenden Fenster Ihre E-Mail-Adresse oder Ihren Benutzernamen an. 
+4.	Daraufhin wird Ihnen ein Link zum Zurücksetzen Ihres Kennworts per E-Mail zugesandt. Dieser Link ist 24 Stunden lang gültig. Sobald Sie auf den Link klicken, wird ein neues Passwort generiert und Ihnen per E-Mail zugeschickt. Falls Sie eine Kennwortzurücksetzung angefordert haben und nach 30 Minuten noch keine E-Mail vom System eingetroffen ist, überprüfen Sie den Junk-Mail-Ordner Ihres E-Mail-Programms. 
+
+
+
+## Sona APP
+
+Es gibt eine kostenlose Sona App, die Sie im App Store (IOS) oder Google Play Store (Android) herunterladen können. Suchen Sie dafür nach „Sona“ oder „Sona Mobile“. Im Gegensatz zur Browser-Version hat die App allerdings nur eingeschränkte Funktionen.
+
+
+
+## Forschenden-Account löschen oder deaktivieren
+
+Forschenden-Accounts können nur durch die Administration gelöscht oder deaktiviert werden. Falls Sie Ihren Account löschen oder deaktivieren möchten, schreiben Sie bitte eine E-Mail an sona@uni-mainz.de.
+
+
+
+## Noch Fragen? 
+
+Auf der offiziellen Website von Sona Systems (https://www.sona-systems.com/researcher-documentation/) gibt es eine ausführliche Dokumentation auf Englisch. 
+Falls Sie weitere Fragen oder Probleme haben, wenden Sie sich bitte an die Administration unter sona@uni-mainz.de.
 
 
 
