@@ -31,10 +31,10 @@ Sona-Website der Universität Mainz: https://uni-mainz-jgu.sona-systems.com
 
 ## Was ist Sona und welche Vorteile bietet es?
 
-Sona Systems ist ein Onlineportal, das Forscher\*innen in der Verwaltung von wissenschaftlichen Studien und deren Teilnehmer\*innen unterstützt. Forscher\*innen können über Sona Versuchspersonen rekrutieren, Zeitfenster („Timeslots“) für Studien terminieren und die Teilnahme an Studien mit Versuchspersonen-Stunden (VP-Stunden) vergüten. Dies ist über den Webbrowser oder die Sona App (eingeschränkte Nutzungsfunktionen) möglich. Sie können in Sona Systems sowohl Online-Studien als auch Laborstudien verwalten. Beide Studienformen können zudem als mehrteilige Studien angelegt werden. 
+Sona Systems ist ein Onlineportal, das Forscher\*innen in der Verwaltung von wissenschaftlichen Studien und deren Teilnehmer\*innen unterstützt. Forscher\*innen können über Sona Versuchspersonen rekrutieren, Zeitfenster („Timeslots“) für Studien einstellen und die Teilnahme an Studien mit Versuchspersonen-Stunden (VP-Stunden) vergüten. Dies ist über den Webbrowser oder die Sona App (eingeschränkte Nutzungsfunktionen) möglich. Sie können in Sona Systems sowohl Online-Studien als auch Laborstudien verwalten. Beide Studienformen können zudem als mehrteilige Studien angelegt werden. 
 
 
-Sona bietet direkten Zugang zu einem großen Pool an möglichen Versuchspersonen. In diesem Pool befinden sich alle Psychologiestudierenden, die derzeit Versuchspersonen-Stunden erwerben müssen, aber auch Studierende andere Fächer und Personen mit einer anderen beruflichen Tätigkeit. Diese Versuchspersonen können bei Bedarf sogar vorselektiert („gescreent“) werden. 
+Sona bietet direkten Zugang zu einem großen Pool an möglichen Versuchspersonen. In diesem Pool befinden sich alle Psychologiestudierenden, die derzeit Versuchspersonen-Stunden erwerben müssen, aber auch Studierende andere Fächer und Personen mit einer anderen beruflichen Tätigkeit. Die Versuchspersonen für Ihre Studie können bei Bedarf vorselektiert („gescreent“) werden. 
 
 
 Sona Systems verringert den Arbeitsaufwand erheblich, den Forscher*innen bislang mit der Organisation von Studienterminen und der Vergabe von VP-Stunden per E-Mail hatten. Diese können in Sona Systems nun mit nur einem Mausklick vergeben werden. 
@@ -47,7 +47,7 @@ Nur Mitarbeiter\*innen des Psychologischen Instituts der Johannes-Gutenberg-Univ
 
 ## Wie kann ich meinen Forschenden-Account erhalten?
 
-Nur die Administration kann Forschenden-Accounts in Sona Systems erstellen und verwalten. Falls Sie ein Anrecht auf einen Forschenden-Account haben (sehen Sie hierzu den Abschnitt „Wer kann einen Forschenden-Account erhalten?“ in diesem Handbuch), wenden Sie sich bitte unter [sona@uni-mainz.de](mailto:sona@uni-mainz.de?subject=Frage zu Sona - Researcher) an die Administration.
+Nur die Administration kann Forschenden-Accounts in Sona Systems erstellen und verwalten. Falls Sie ein Anrecht auf einen Forschenden-Account haben (sehen Sie hierzu den Abschnitt [Wer kann einen Forschenden-Account erhalten?]), wenden Sie sich bitte unter [sona@uni-mainz.de](mailto:sona@uni-mainz.de?subject=Frage zu Sona - Researcher) an die Administration.
 
 
 ## Rollen im System
@@ -58,7 +58,8 @@ Der\*die P.I. kann bei einer Studie prinzipiell dieselben Funktionen ausführen 
 
 ## Kann ich die Website auch auf Deutsch sehen?
 
-Nein, für Forscher\*innen ist die Website leider nur auf Englisch verfügbar. Die Website wird den Versuchspersonen aber, sofern nicht anders ausgewählt, auf Deutsch angezeigt.
+Nein, für Forscher\*innen ist die Website leider nur auf Englisch verfügbar. Für die Versuchspersonen ist die Website allerdings auf Deutsch und wahlweise Englisch verfügbar. 
+
 
 
 # Studien einstellen und verwalten
@@ -69,7 +70,7 @@ Sona Systems unterscheidet fünf Arten von Studien, wobei jede Art entweder mit 
 
 -	**Standard Study:** normale Laborstudie (nicht online) 
 -	**Multi-Part Standard Study:** normale Laborstudie (nicht online), die aus mindestens zwei Teilen besteht 
--	**Online External Study:** Online-Studie, die auf einer anderen Website durchgeführt wird als Sona (z. B. SoSci Survey, Lab.js usw.). Dies ist bei den meisten Online-Studien der Fall. 
+-	**Online External Study:** Online-Studie, die auf einer anderen Website durchgeführt wird als Sona (z. B. SoSci Survey, Open-Lab usw.). Dies ist bei den meisten Online-Studien der Fall. 
 -	**Multi-Part Online External Study:** Online-Studie, die auf einer anderen Website durchgeführt wird als Sona und mehrere Messzeitpunkte hat
 -	**Online Internal Survey Study:** Online-Befragung innerhalb von Sona 
 
@@ -119,9 +120,9 @@ Bitte beachten Sie: Bevor Sie Ihre Studie auf „active“ setzen, sollten Sie d
 
 ## Wie nutze ich die Pre-Screen Funktion?
 
-Mit der Pre-Screening Funktion können Sie Versuchspersonen anhand bestimmter Kriterien für die Teilnahme an Ihrer Studie vorselektieren. Versuchspersonen, die nicht für Ihre Studie qualifiziert sind, wird Ihre Studie gar nicht erst in der Liste der verfügbaren Studien angezeigt. Das Ausfüllen des Pre-Screening Fragebogens ist für alle Versuchspersonen auf Sona freiwillig.
+Mit der Pre-Screening Funktion können Sie Versuchspersonen anhand bestimmter Kriterien für die Teilnahme an Ihrer Studie vorselektieren. Versuchspersonen, die nicht für Ihre Studie qualifiziert sind, sehen Ihre Studie gar nicht erst in der Liste der für sie verfügbaren Studien. Das Ausfüllen des Pre-Screening Fragebogens ist für alle Versuchspersonen auf Sona freiwillig.
 
-1.	Um die Pre-Screen Funktion zu nutzen, müssen Sie zunächst Ihre Studie erstellen. Sehen Sie dazu den Abschnitt „Studien einstellen“ in diesem Handbuch.
+1.	Um die Pre-Screen Funktion zu nutzen, müssen Sie zunächst Ihre Studie erstellen. Sehen Sie dazu den Abschnitt [Studien einstellen].
 2.	Sobald Sie Ihre Studie eingestellt haben, gehen Sie auf die Detailansicht Ihrer Studie (dafür den Namen der Studie unter `My Studies` anklicken).
 3.	Klicken Sie oben rechts auf den Knopf `View/Modify Restrictions` 
 
@@ -157,7 +158,7 @@ Falls Sie die Timeslots aus einer bestimmten Woche kopieren möchten, klicken Si
 <br>
 <b>Timeslots für Online-Studien erstellen</b>
 
-Wenn Sie eine Online-Studie durchführen, sollten Sie nur einen einzigen Timeslot erstellen. Sehen Sie im Abschnitt „Timeslots für Laborstudien erstellen“, wie Sie zur Verwaltung der Timeslots gelangen. Treffen Sie bei der Erstellung des einen Timeslots folgende Einstellungen:
+Wenn Sie eine Online-Studie durchführen, sollten Sie nur einen einzigen Timeslot erstellen. Treffen Sie bei der Erstellung des einen Timeslots folgende Einstellungen:
 
 *	Final Participation Date: Der Tag, bis zu dem Versuchspersonen an Ihrer Studie teilnehmen können 
 *	Final Participation Time: Die Uhrzeit, bis zu der Versuchspersonen am letzten Tag an Ihrer Studie teilnehmen können.
@@ -177,8 +178,8 @@ knitr::include_graphics('images/Folie18.png')
 
 
 4.	Klicken Sie für den Timeslot, den Sie ändern oder löschen möchten, rechts auf `Modify`.
-    a.	Ändern: Ändern Sie die gewünschten Informationen und klicken Sie auf den Knopf `Update Timeslot`. Achtung: Bereits für diesen Timeslot angemeldete Versuchspersonen werden nicht (per E-Mail) über die von Ihnen vorgenommenen Änderungen benachrichtigt. Sie sollten sich daher mit den angemeldeten Versuchspersonen in Verbindung setzen, wenn Sie sie über Ihre Änderungen informieren möchten (sehen Sie hierzu den Abschnitt „Angemeldete Versuchspersonen kontaktieren“ in diesem Handbuch).
-    b.	Löschen: Sie können keine Timeslots löschen, für die sich bereits Versuchspersonen angemeldet haben. Dafür müssen Sie zuerst alle bestehenden Anmeldungen für diese Timeslots stornieren (sehen Sie hierzu den Abschnitt Termine absagen/ Versuchspersonen abmelden“ in diesem Handbuch). Klicken Sie danach auf den Knopf `Delete` und bestätigen Sie Ihre Eingabe erneut, um den Timeslot zu löschen.
+    a. <b>Ändern:</b> Ändern Sie die gewünschten Informationen und klicken Sie auf den Knopf `Update Timeslot`. Achtung: Bereits für diesen Timeslot angemeldete Versuchspersonen werden nicht automatisch über die von Ihnen vorgenommenen Änderungen benachrichtigt. Sie sollten sich daher mit den angemeldeten Versuchspersonen in Verbindung setzen, wenn Sie sie über Ihre Änderungen informieren möchten (sehen Sie hierzu den Abschnitt [Angemeldete Versuchspersonen kontaktieren]).
+    b. <b>Löschen:</b> Sie können keine Timeslots löschen, für die sich bereits Versuchspersonen angemeldet haben. Dafür müssen Sie zuerst alle bestehenden Anmeldungen für diese Timeslots stornieren (sehen Sie hierzu den Abschnitt [Termine absagen / Versuchspersonen abmelden] in diesem Handbuch). Klicken Sie danach auf den Knopf `Delete` und bestätigen Sie Ihre Eingabe erneut, um den Timeslot zu löschen.
 
 
 ## Wie lange dauert es, bis meine Studie auf Sona genehmigt („approved“) ist?
@@ -200,16 +201,16 @@ Sie können jederzeit Informationen über Ihrer Studie aktualisieren. Bitte beac
 1.	Loggen Sie sich mit Ihrem Forschenden-Account auf https://uni-mainz-jgu.sona-systems.com ein.
 2.	Klicken Sie auf `My Studies` und klicken Sie auf den Titel derjenigen Studie, die sie ändern wollen.
 3.	Wählen Sie im `Study Menu` (entweder oben oder ganz unten auf der Website) den Unterpunkt `Change Study Information` aus.
-4.	Machen Sie die gewünschten Änderungen und klicken Sie auf den grünen Knopf `Save Changes`, um Ihre Änderungen zu speichern. Falls Sie Informationen in Ihrer Studie ändern, die eine erneute Genehmigung durch die Administration erfordern, können Sie den Antrag wie bereits bei der ersten Genehmigung über das System senden (sehen Sie hierzu den Abschnitt „Studien einstellen“). 
+4.	Machen Sie die gewünschten Änderungen und klicken Sie auf den grünen Knopf `Save Changes`, um Ihre Änderungen zu speichern. Falls Sie Informationen in Ihrer Studie ändern, die eine erneute Genehmigung durch die Administration erfordern, können Sie den Antrag wie bereits bei der ersten Genehmigung über das System senden (sehen Sie hierzu den Abschnitt [Studie auf „active“ setzen und genehmigen lassen]). 
 
 
 ## Studien deaktivieren oder löschen 
 
 <b>Studie deaktivieren</b>
 
-Sie können Ihre Studie auf „inactive“ setzen, sobald sich keine weiteren Versuchspersonen mehr für Ihre Studie anmelden sollen. Bitte deaktivieren Sie Ihre Studien, wenn Ihre Datenerhebung abgeschlossen ist.
+Sie können Ihre Studie auf „inactive“ setzen, sobald sich keine weiteren Versuchspersonen mehr für Ihre Studie anmelden sollen. Bitte deaktivieren Sie Ihre Studien, sobald Ihre Datenerhebung abgeschlossen ist.
 
-1.	Gehen Sie in die Detailansicht der Studie (Namen der Studie anklicken)
+1.	Gehen Sie in die Detailansicht der Studie (Namen der Studie anklicken).
 2.	Wählen Sie unter „Study Menu“ (entweder oben oder ganz unten auf der Seite) den Unterpunkt `Change Study Information` aus. 
 3.	Wählen Sie im Abschnitt `Active Study?` „No“ aus und bestätigen Sie die Änderung mit dem grünen Knopf `Save Changes`.
 
@@ -217,10 +218,11 @@ Sie können Ihre Studie auf „inactive“ setzen, sobald sich keine weiteren Ve
 <b>Studie löschen</b>
 
 Eine Studie kann nur gelöscht werden, wenn…
-*	Keine Versuchspersonen mehr dafür angemeldet sind und 
-*	Bisher keine VP-Stunden für die Studie vergeben wurden. Grund dafür: Um im System die geleisteten Versuchspersonenstunden der Studierenden zu verwalten, müssen alle Studien, die dazu beigetragen haben, intakt bleiben. Daher sollten Studien, die mit VP-Stunden vergütet wurden, nicht gelöscht werden, sondern auf „inactive“ gesetzt werden!
 
-1.	Gehen Sie in die Detailansicht der Studie (Namen der Studie anklicken)
+*	Keine Versuchspersonen mehr dafür angemeldet sind und...
+*	bisher keine VP-Stunden für die Studie vergeben wurden. Grund dafür: Um im System die geleisteten Versuchspersonenstunden der Studierenden zu verwalten, müssen alle Studien, die dazu beigetragen haben, intakt bleiben. Daher sollten Studien, die mit VP-Stunden vergütet wurden, nicht gelöscht werden, sondern auf „inactive“ gesetzt werden!
+
+1.	Gehen Sie in die Detailansicht der Studie (Namen der Studie anklicken).
 2.	Wählen Sie unter „Study Menu“ (entweder oben oder ganz unten auf der Seite) den Unterpunkt `Delete Study` aus. Wenn Sie diesen Unterpunkt nicht in der Menüleiste sehen, sind entweder noch Versuchspersonen für diese Studie angemeldet oder es wurden für diese Studie bereits VP-Stunden vergeben. 
 3.	Sie werden nun zu den Einstellungen der Studie weitergeleitet. Scrollen Sie nach unten und klicken Sie auf den roten Knopf `Yes. Delete`. Danach ist Ihre Studie endgültig gelöscht.
 
@@ -240,7 +242,7 @@ Bitte sehen Sie ferner davon ab, Werbung für Ihre Studie über den E-Mail-Verte
 
 ## Ab wann können sich Versuchspersonen für meine Studie anmelden?
 
-Versuchspersonen können Ihre Studie erst in Sona sehen und sich für diese anmelden, wenn Ihre Studie sowohl „active“ als auch „approved“ ist. Sie können Ihre Studie selbst auf „active“ setzen, die Studie genehmigen („approve“) kann allerdings nur die Administration. Wie Sie Ihre Studie auf „active“ setzen und eine Genehmigung beantragen, lesen Sie in diesem Handbuch ganz unten unter „Studien einstellen“.
+Versuchspersonen können Ihre Studie erst in Sona sehen und sich für diese anmelden, wenn Ihre Studie sowohl „active“ als auch „approved“ ist. Sie können Ihre Studie selbst auf „active“ setzen, die Studie genehmigen („approve“) kann allerdings nur die Administration. Wie Sie Ihre Studie auf „active“ setzen und eine Genehmigung beantragen lesen Sie im Abschnitt [Studie auf „active“ setzen und genehmigen lassen].
 
 
 ## Versuchspersonen manuell anmelden
@@ -267,8 +269,8 @@ Sie erhalten immer eine System-E-Mail, sobald sich Versuchspersonen für Ihre St
 Um eine Liste von Anmeldungen für Ihrer Studie zu erhalten, gehen Sie bitte wie folgt vor.
 
 1.	Klicken Sie in der Menüleiste auf `My Studies`.
-    a.	Alternative A: Klicken Sie auf `View Printer-Friendly List of Signups`, um eine Liste von Versuchspersonen zu erhalten, die an einem bestimmten Tag für irgendeine Ihrer Studien angemeldet sind.
-    b. Alternative B: Klicken Sie auf den Titel einer bestimmten Studie und wählen Sie im `Study Menu` (entweder oben oder ganz unten auf der Website) den Unterpunkt `View/Administer Time Slots` aus. Hier können Sie in der Menüleiste wählen, ob Sie 
+    * Alternative A: Klicken Sie auf `View Printer-Friendly List of Signups`, um eine Liste von Versuchspersonen zu erhalten, die an einem bestimmten Tag für irgendeine Ihrer Studien angemeldet sind.
+    * Alternative B: Klicken Sie auf den Titel einer bestimmten Studie und wählen Sie im `Study Menu` (entweder oben oder ganz unten auf der Website) den Unterpunkt `View/Administer Time Slots` aus. Hier können Sie in der Menüleiste wählen, ob Sie 
         * alle Timeslots (`All Timeslots`), 
         * aktuelle Timeslots (`recent Timeslots`), 
         * anstehende Timeslots (`Upcoming Timeslots`) oder 
@@ -286,7 +288,7 @@ knitr::include_graphics('images/Folie19.png')
 Sie haben zwei Möglichkeiten, um für Ihre Studie angemeldete Versuchspersonen zu kontaktieren: 
 
 * Per E-Mail: Dies ist der Standard, um Versuchspersonen zu kontaktieren. Insbesondere wenn es um einen Termin geht, der nicht noch am selben Tag stattfinden soll, kontaktieren Sie die Versuchsperson bitte per E-Mail.
-* Ggf. telefonisch: Bitte kontaktieren Sie Versuchspersonen nur in Notfällen telefonisch, beispielsweise wenn diese nicht zu ihrem angemeldeten Termin erscheinen, Sie selbst sich zum Termin verspäten oder den vereinbarten Termin sehr kurzfristig absagen müssen. Bitte beachten Sie, dass Versuchspersonen nicht dazu verpflichtet sind, ihre Handynummer auf Sona anzugeben, sodass Sie manche Versuchspersonen ggf. nicht telefonisch erreichen können. Kontaktieren die diese Versuchspersonen bitte per E-Mail.
+* Ggf. telefonisch: Bitte kontaktieren Sie Versuchspersonen nur in Notfällen telefonisch, beispielsweise wenn diese nicht zu ihrem angemeldeten Termin erscheinen, Sie selbst sich zum Termin verspäten oder den vereinbarten Termin sehr kurzfristig absagen müssen. Bitte beachten Sie, dass Versuchspersonen nicht dazu verpflichtet sind, ihre Handynummer auf Sona anzugeben, sodass Sie manche Versuchspersonen nicht telefonisch erreichen können. Kontaktieren die diese Versuchspersonen bitte per E-Mail.
 
 
 <b>Kontaktierung per E-Mail </b>
@@ -345,7 +347,8 @@ knitr::include_graphics('images/Folie22.png')
 ## Was tue ich, wenn angemeldete Versuchspersonen nicht zu ihrem Termin erscheinen?
 
 <b>Bei Laborstudien </b>
-Wenn eine angemeldete Versuchsperson nicht zu ihrem Termin erscheint, versuchen Sie zunächst, die Versuchsperson telefonisch zu kontaktieren (sehen Sie hierzu den Abschnitt „Angemeldete Versuchspersonen kontaktieren“ in diesem Handbuch). Es kann sein, dass sich die Versuchsperson lediglich verspätet oder den Raum nicht findet. Falls die Versuchsperson nicht erreichbar ist oder keine Handynummer angegeben hat, senden Sie ihr bitte eine E-Mail.
+
+Wenn eine angemeldete Versuchsperson nicht zu ihrem Termin erscheint, versuchen Sie zunächst, die Versuchsperson telefonisch zu kontaktieren (sehen Sie hierzu den Abschnitt [Angemeldete Versuchspersonen kontaktieren]). Es kann sein, dass sich die Versuchsperson lediglich verspätet oder den Raum nicht findet. Falls die Versuchsperson nicht erreichbar ist oder keine Handynummer angegeben hat, senden Sie ihr bitte eine E-Mail.
 
 Erscheint die Versuchsperson schlussendlich nicht zu ihrem Termin, tragen Sie die Person bitte als „No-Show“ ein: 
 
@@ -365,6 +368,7 @@ Sollte eine Versuchsperson wiederholt nicht zu vereinbarten Terminen erscheinen,
 
 
 <b>Bei Online Studien </b>
+
 Wenn Versuchspersonen sich für Ihre Online-Studie anmelden, aber nicht oder nicht vollständig an dieser teilnehmen, vergeben Sie bitte ein „Excused No-Show“. Der Grund hierfür ist, dass nicht nachvollzogen werden kann, aus welchen Gründen die Versuchsperson nicht (vollständig) an der Studie teilgenommen hat. Beispielsweise könnte sie sich beim Lesen der Studieninformationen oder Einverständniserklärung gegen eine Teilnahme an der Studie entschieden haben. 
 
 
@@ -378,37 +382,37 @@ Die Anzahl der Versuchspersonen-Stunden (VP-Stunden), die Sie für die Teilnahme
 * Beispiel 1: Eine Online-Studie dauert 10 Minuten. Für die Teilnahme können Sie 0,25 VP-Stunden vergeben.
 * Beispiel 2: Eine Laborstudie dauert 70 Minuten (1,25 VP-Stunden). Für die Wegzeit können Sie zusätzlich 0,25 VP-Stunden vergeben. Somit können Sie für die Teilnahme an dieser Studie insgesamt 1,5 VP-Stunden vergeben. 
 
-Bei Laborstudien zählt eine ggf. nötige Vor- und Nachbereitungszeit, bei der die Versuchsperson anwesend ist, selbstverständlich zur Dauer der Studie dazu. Bei Laborstudien kann es zudem passieren, dass die Studie länger oder kürzer dauert als geplant. In diesem Fall können Sie die vergebenen VP-Stunden anpassen (sehen Sie dazu den Abschnitt „Was ist, wenn eine Studie länger oder kürzer dauert als geplant?“ in diesem Handbuch). Falls eine Versuchsperson die Teilnahme an einer Laborstudie vorzeitig abbricht, vergeben Sie ihr bitte so viele VP-Stunden, wie sie Zeit im Experiment verbracht hat. 
+Bei Laborstudien zählt eine ggf. nötige Vor- und Nachbereitungszeit, bei der die Versuchsperson anwesend ist, selbstverständlich zur Dauer der Studie dazu. Bei Laborstudien kann es zudem passieren, dass die Studie länger dauert als geplant. In diesem Fall können Sie die vergebenen VP-Stunden anpassen (sehen Sie dazu den Abschnitt [Was ist, wenn eine Studie länger oder kürzer dauert als geplant?] in diesem Handbuch). Falls eine Versuchsperson die Teilnahme an einer Laborstudie vorzeitig abbricht, vergeben Sie ihr bitte so viele VP-Stunden, wie sie Zeit im Experiment verbracht hat. 
 
 
 
 ## Was ist, wenn eine Studie länger oder kürzer dauert als geplant?
 
-Wenn eine Laborstudie länger dauert als geplant, können Sie die vergebenen VP-Stunden anpassen (lesen Sie auch den Abschnitt „Wie vergebe ich die VP-Stunden nach erfolgreicher Teilnahme an meiner Studie“). Fügen Sie bei der Vergabe der VP-Stunden bitte einen entsprechenden Kommentar bei. 
-Wenn eine Versuchsperson in Ihrer Studie sehr schnell war, müssen Sie ihr dennoch die in der Studienbeschreibung genannten VP-Stunden vergeben. Nur wenn Versuchspersonen die Teilnahme an Ihrer Studie abbrechen, können Sie weniger VP-Stunden vergeben. Vergeben Sie in diesem Fall bitte so viele VP-Stunden, wie die Versuchsperson Zeit im Experiment verbracht hat. 
+Wenn eine Laborstudie länger dauert als geplant, können Sie die vergebenen VP-Stunden anpassen (lesen Sie auch den Abschnitt [Wie vergebe ich VP-Stunden für Laborstudien?]). Fügen Sie bei der Vergabe der VP-Stunden bitte einen entsprechenden Kommentar bei. 
+
+Wenn eine Versuchsperson in Ihre Studie schneller bearbeitet hat als geplant, müssen Sie ihr dennoch die in der Studienbeschreibung genannten VP-Stunden vergeben. Nur wenn Versuchspersonen die Teilnahme an Ihrer Studie abbrechen, können Sie weniger VP-Stunden vergeben. Vergeben Sie in diesem Fall bitte so viele VP-Stunden, wie die Versuchsperson Zeit im Experiment verbracht hat. 
+
 Vergeben Sie bei Online-Studien bitte immer die in der Studienbeschreibung genannten VP-Stunden, vorausgesetzt die Versuchsperson hat vollständig an Ihrer Studie teilgenommen. Falls nicht, vergeben Sie bitte 0 (null) VP-Stunden.
 
 
 
-##Kann ich die Versuchsteilnahme durch besondere Anreize (z.B. Teilnahme an einer Lotterie) zusätzlich vergüten?
+## Kann ich die Versuchsteilnahme durch besondere Anreize (z.B. Teilnahme an einer Lotterie) zusätzlich vergüten?
 
-Aus Gründen der Fairness gegenüber anderen Forschenden ist es nicht vorgesehen, dass Studien, die mit VP-Stunden vergütet werden, zusätzlich mit Geld oder einer alternativen Vergütung entlohnt werden. Wahlweise eine Alternative zur Vergütung mit VP-Stunden anzubieten (z.B. VP-Stunden oder Geld) ist natürlich zulässig. Von dieser Regel ausgenommen sind kleine nicht-monetäre Anreize während der Studie wie z.B. Schokolade. Weiterhin können bei Studien, deren Versuchsdesign das Auszahlen zusätzlicher Anreize vorsieht (z. B. im Rahmen leistungsabhängiger Belohnung), Ausnahmen gemacht werden. Kontaktieren Sie dazu im Zweifelsfall die Administration, um Details zu besprechen.
-
-
-
-## Wie vergebe ich die VP-Stunden nach erfolgreicher Teilnahme an meiner Studie? 
+Aus Gründen der Fairness gegenüber anderen Forschenden ist es nicht vorgesehen, dass Studien, die mit VP-Stunden vergütet werden, zusätzlich mit Geld oder einer alternativen Vergütung entlohnt werden. Wahlweise eine Alternative zur Vergütung mit VP-Stunden anzubieten (z.B. VP-Stunden <i>oder</i> Geld) ist natürlich zulässig. Von dieser Regel ausgenommen sind kleine nicht-monetäre Anreize während der Studie wie z.B. Schokolade. Weiterhin können bei Studien, deren Versuchsdesign das Auszahlen zusätzlicher Anreize vorsieht (z. B. im Rahmen leistungsabhängiger Belohnung), Ausnahmen gemacht werden. Kontaktieren Sie dazu im Zweifelsfall die Administration, um Details zu besprechen.
 
 
-<b>Für Laborstudien </b>
+
+## Wie vergebe ich VP-Stunden für Laborstudien? 
+
 
 Wenn Versuchspersonen erfolgreich an Ihrer Laborstudie teilgenommen haben, vergeben Sie bitte die entsprechenden VP-Stunden innerhalb von 3 Werktagen. 
 
-1.	Klicken Sie in der Menüleiste auf `My Studies` und klicken Sie auf Namen der betreffenden Studie. 
+1.	Klicken Sie in der Menüleiste auf `My Studies` und klicken Sie auf den Namen der betreffenden Studie. 
 2.	Wählen Sie im Study Menu (ganz oben und ganz unten auf der Seite) den Punkt `View/Admister Time Slots`. 
 3.	Klicken Sie beim Timeslot der betreffenden Versuchsperson rechts auf `Modify`.
     a.	Klicken Sie bei `Credit Granted` auf den kleinen Punkt, um die angezeigt Anzahl an VP-Stunden zu vergeben.
-    b.	Falls die Studie länger oder kürzer gedauert hat als geplant, können Sie die Anzahl der vergebenen VP-Stunden im Drop-Down Menü unter dem Punkt anpassen. Hinterlassen Sie in diesem Fall bitte einen kurzen Kommentar in der Spalte rechts. Sie müssen, auch wenn eine Versuchsperson sehr schnell war, immer die in der Studienbeschreibung genannten VP-Stunden vergeben. Nur wenn Versuchspersonen Ihre Teilnahme an der Studie abbrechen, können Sie weniger VP-Stunden vergeben.
-c.	Falls Sie alternativ zu VP-Stunden eine andere Vergütung für die Studienteilnahme angeboten haben und die Versuchsperson diese alternative Vergütung gewählt hat, wählen Sie bitte unter `Credit granted` 0 VP-Stunden aus. Vermerken Sie die alternative Vergütung bitte in der Kommentarspalte rechts.
+    b.	Falls die Studie länger gedauert hat als geplant oder die Versuchsperson die Studie abgebrochen hat, können Sie die Anzahl der vergebenen VP-Stunden im Drop-Down Menü unter dem Punkt anpassen. Hinterlassen Sie in diesem Fall bitte einen kurzen Kommentar in der Spalte rechts. Sie müssen, sofern die Versuchsperson vollständig an Ihrer Studie teilgenommen hat, immer mindestens die in der Studienbeschreibung genannten VP-Stunden vergeben. Selbst, wenn die Versuchsperson Ihre Studie sehr schnell bearbeitet hat. Nur wenn Versuchspersonen die Teilnahme an Ihrer Studie abbrechen können Sie weniger VP-Stunden vergeben.
+    c. Falls Sie alternativ zu VP-Stunden eine andere Vergütung für die Studienteilnahme angeboten haben und die Versuchsperson diese alternative Vergütung gewählt hat, wählen Sie bitte unter `Credit granted` 0 VP-Stunden aus. Vermerken Sie die alternative Vergütung bitte in der Kommentarspalte rechts.
 4.	Klicken Sie auf `Update Sign-Ups`, um Ihre Eingabe zu speichern.
 
 
@@ -417,19 +421,97 @@ knitr::include_graphics('images/Folie24.png')
 ```
 
 
-Wenn Sie sich im Hauptmenü befinden (direkt nach der Anmeldung), sehen Sie außerdem den Menüpunkt `View Uncredited Timeslots`. Hier gelangen Sie direkt zu einer Übersicht über alle Timeslots Ihrer Laborstudien, die bereits in der Vergangenheit liegen, aber immer noch den Status „Awaiting Action“ haben. Bitte prüfen Sie regelmäßig dieses Feld und updaten Sie die Timeslots (Vergabe von „No Shows“ für Nichtteilnahme bzw. Vergabe von VP-Stunden bei Teilnahme). 
+Wenn Sie sich im Hauptmenü befinden (direkt nach der Anmeldung), sehen Sie außerdem den Menüpunkt `View Uncredited Timeslots`. Hier gelangen Sie direkt zu einer Übersicht über alle Timeslots Ihrer Studien, die bereits in der Vergangenheit liegen, aber für die noch keine VP-Stunden vergeben wurden (Status „Awaiting Action“). Bitte überprüfen Sie dieses Feld, wenn dort Einträge gelistet sind (grünes Zeichen erscheint rechts) und aktualisieren Sie den Status der aufgeführten Timeslots. Lesen Sie den Abschnitt [Was tue ich, wenn angemeldete Versuchspersonen nicht zu ihrem Termin erscheinen?] für mehr Informationen, falls die Versuchsperson im betreffenden Timeslot nicht am Experiment teilgenommen hat. 
 
 
 ```{r echo = FALSE, out.width='92%', fig.align='center'}
 knitr::include_graphics('images/Folie25.png') 
 ```
 
-Sollten Sie die Vergabe der VP-Stunden nicht zeitnah erledigen, erhalten Sie System-E-Mails von Sona, die sie darauf hinweisen. Eine automatisierte Vergabe von VP-Stunden durch Sona kann nicht erfolgen. 
+Sollten Sie die Vergabe der VP-Stunden nicht zeitnah erledigen, erhalten Sie System-E-Mails von Sona, die sie darauf hinweisen. Eine automatisierte Vergabe von VP-Stunden für Laborstudien durch Sona kann nicht erfolgen, da Sie bestätigen müssen, dass die Versuchspersonen tatsächlich zu Ihrem Experiment erschienen sind. 
 
 
-<b>Für Online-Studien </b>
 
-Tbd To be done! 
+## Wie vergebe ich VP-Stunden für Online-Studien? 
+
+Bei Online-Studien haben Sie zwei Möglichkeiten, Versuchspersonenstunden zu verteilen, nämlich automatisch oder manuell. Die automatische Vergabe von VP-Stunden ist sehr praktisch, da die VP-Stunden sofort vergeben werden, sobald die Versuchsperson die letzte Seite Ihrer Online-Studie erreicht hat. Dies funktioniert über einen Link, der die Versuchspersonen am Ende Ihrer Online-Studie zur Sona Website zurückleitet. Da SoSci Survey an der Universität Mainz der beliebteste Host für Online-Studien ist, ist hier die Integration mit SoSci Survey genauer beschrieben. Sona unterstützt allerdings auch viele weitere Hosts für Online-Studien. Eine Dokumentation zur Integration der anderen Host-Websiten finden Sie hier: https://www.sona-systems.com/help/. 
+
+Zudem finden Sie viele weitere Informationen zur automatischen Vergabe von VP-Stunden hier: https://www.sona-systems.com/researcher_categories/online-external-studies/.
+
+<br>
+<b>Automatische Vergabe über SoSci-Survey</b>
+
+1.	Loggen Sie sich in Sona ein und klicken Sie in der Menüleiste auf `My Studies`. Klicken Sie danach auf den Titel Ihrer Online-Studie.
+2.	Klicken Sie unten auf der Seite auf `Change Study Information` und scrollen Sie zum Unterpunkt „Study URL“.
+3.	Fügen Sie am Ender der Study URL `?r=%SURVEY_CODE%` ein. Lautet die URL Ihrer SoSci-Umfrage beispielsweise `https://www.soscisurvey.de/memorystudy1/`, dann ändern Sie diese zu `https://www.soscisurvey.de/memorystudy1/?r=%SURVEY_CODE%`.
+
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie31.png') 
+```
+
+4.	Speichern Sie die Änderungen, indem Sie ganz unten auf der Seite auf `Save Changes` klicken.
+5.	Wenn Sie nun zurück auf die Studienübersicht gelangen, sehen Sie unter „Website“ einen SoSci Survey Exit Link. Dieser sieht beispielsweise so aus: `https://uni-mainz-jgu.sona-systems.com/webstudy_credit.aspx?experiment_id=8&credit_token=f9403bacdf064316b3ec407d75ce562e&survey_code=%reference%`. Kopieren Sie diesen Link in Ihre Zwischenablage. 
+
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie32.png') 
+```
+
+6.	Loggen Sie sich nun in SoSci Survey ein und wählen Sie Ihre Studie aus. 
+7.	Klicken Sie in der Randleiste links auf `Fragebogen zusammenstellen`.
+8.	Fügen Sie nach der letzten Seite Ihres Fragebogens eine neue Seite ein.
+9.	Ziehen Sie per Drag and Drop das Element `PHP-Code` in die neue Seite.
+
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie33.png') 
+```
+
+
+10.	Fügen Sie den folgenden Befehl in das PHP-Code Fenster ein: `redirect('https://exit-link-zu-ihrer-studie', false);`,  wobei „https\://exit-link-zu-ihrer-studie“ der SoSci Survey Exit Link aus Ihrer Zwischenablage ist. Das Argument „false“ am Ende des redirect-Befehls legt fest, dass die Studie an dieser Stelle zu Ende ist und in SoSci Survey als abgeschlossen markiert werden kann.
+
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie34.png') 
+```
+
+11.	Die Integration ist nun abgeschlossen! Sie sollten nun testen, ob die automatische Vergabe der VP-Stunden funktioniert, bevor Sie Ihre Studie in Sona auf „active“ setzen. 
+12.	Klicken Sie dafür in der Übersicht Ihrer Studie in Sona auf den Knopf `Sample Link with Embedded ID Code`.
+
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie35.png') 
+```
+
+13.	Bearbeiten Sie Ihre Studie bis zum Ende, damit Sie zur Sona Website zurückgeleitet werden. 
+14.	Stellen Sie sicher, dass Sie die folgende Nachricht auf Sona erhalten: “System Message: No credit given, because you are not a participant, and therefore cannot sign up for this study. Study Name: [Name Ihrer Studie]”. Wichtig ist, dass der angezeigte Name der Studie mit Ihrer Studie übereinstimmt. Ist dies der Fall, funktioniert die automatische Vergabe der VP-Stunden für Ihre Studie. Weitere Informationen zur Überprüfung der automatischen VP-Stunden-Vergabe und Hilfe bei möglichen Problemen finden Sie unter dem folgenden Link: https://www.sona-systems.com/help/integration_test/
+
+```{r echo = FALSE, out.width='92%', fig.align='center'}
+knitr::include_graphics('images/Folie36.png') 
+```
+
+
+Die drei häufigsten Probleme bei der Einrichtung einer automatischen VP-Stunden-Vergabe sind:
+
+* Die Studie ist als falsche Art von Studie in Sona eingestellt. Stellen Sie sicher, dass es sich um eine „Online External Study“ handelt.
+* Die URL, zu der die Versuchspersonen am Ende der Umfrage weitergeleitet werden, ist falsch. Diese URL ist für jede Studie in unserem System einzigartig. Wenn Sie beispielsweise eine alte SoSci Survey Umfrage wiederverwenden und eine neue Studie in Sona erstellen, müssen Sie die URL in der SoSci Survey Umfrage aktualisieren, damit automatisch VP-Stunden vergeben werden können.
+* Tippfehler beim Einfügen von %SURVEY_CODE% in das Feld `Study-URL` in Sona (Schritt 3). Der Link muss genau wie in dieser Dokumentation beschrieben verändert werden, sonst funktioniert es nicht. 
+
+
+Weitere Informationen zur Automatischen Vergabe von VP-Stunden über SoSci Survey finden Sie unter: https://www.sona-systems.com/help/soscisurvey/
+
+
+<br>
+<b>Manuelle Vergabe von VP-Stunden bei Online-Studien. </b>
+
+Eine automatische Vergabe von VP-Stunden ist nicht immer sinnvoll oder möglich, beispielsweise wenn…
+
+* Sie eine externe Website nutzen, die nicht von Sona für eine automatische Vergabe von VP-Stunden unterstützt wird,
+* Sie eine alternative Vergütung neben VP-Stunden anbieten, oder
+* Sie die automatische Vergabe nicht über einen Link vornehmen möchten. 
+
+Für eine manuelle Vergabe sollten Sie überprüfen, welche der angemeldeten Versuchspersonen tatsächlich bis zum Ende Ihrer Studie teilgenommen haben. Am einfachsten ist es, wenn Sie im Rahmen Ihrer Online-Studie den Sona-Benutzernamen oder Namen der Teilnehmer\*innen erfragen, bestenfalls in einem vom Datensatz getrennten freien Eingabefeld. 
+Vergleichen Sie diese Daten nach Ende Ihrer Erhebung mit der Liste von angemeldeten Versuchspersonen in Sona. Bitte vergeben Sie die Versuchspersonenstunden wie folgt: 
+
+* Bei erfolgter Teilnahme: die entsprechende Anzahl an VP-Stunden aus der Studienbeschreibung
+* Bei alternativer Vergütung: 0 VP-Stunden und einen entsprechenden Kommentar 
+* Bei Nicht-Teilnahme: entschuldigtes Fehlen („Excused No-Show“) 
 
 
 
