@@ -23,7 +23,7 @@ options(warning.length = 100)
 
 # Allgemeine Informationen
 
-Dies ist das Sona-Handbuch für Forscher*innen. Falls Sie Versuchsperson sind, gelangen Sie hier (Link) zum Sona-Handbuch für Versuchspersonen.
+Dies ist das Sona-Handbuch für Forscher*innen. Falls Sie Versuchsperson sind, gelangen Sie hier (https://amd-lab.github.io/sona-participants-jgu.html) zum Sona-Handbuch für Versuchspersonen.
 
 Sona-Website der Universität Mainz: https://uni-mainz-jgu.sona-systems.com
 
@@ -42,18 +42,19 @@ Sona Systems verringert den Arbeitsaufwand erheblich, den Forscher*innen bislang
 
 ## Wer kann einen Forschenden-Account erhalten?
 
-Nur Mitarbeiter\*innen des Psychologischen Instituts der Johannes-Gutenberg-Universität Mainz können einen Forschenden-Account („Researcher Account“) erhalten. Jede Abteilung besitzt darüber hinaus einen Account für wissenschaftliche Hilfskräfte. Studierende erhalten grundsätzlich keine Forschenden-Accounts, auch nicht für Abschlussarbeiten. Für die Verwaltung von Abschlussarbeiten und ggf. die Vergabe von Versuchspersonen-Stunden (VP-Stunden) ist der\*die jeweilige Betreuer\*in der Abschlussarbeit verantwortlich.
+Nur Mitarbeiter\*innen des Psychologischen Instituts der Johannes-Gutenberg-Universität Mainz können einen Forschenden-Account („Researcher Account“) erhalten. Wissenschaftliche Hilfskräfte sind auch Angehörige des psychologischen Instituts und können somit ebenfalls einen Account erhalten. Studierende erhalten grundsätzlich keine Forschenden-Accounts, auch nicht für Abschlussarbeiten. Für die Verwaltung von Abschlussarbeiten und ggf. die Vergabe von Versuchspersonen-Stunden (VP-Stunden) ist der\*die jeweilige Betreuer\*in der Abschlussarbeit verantwortlich.
 
 
 ## Wie kann ich meinen Forschenden-Account erhalten?
 
-Nur die Administration kann Forschenden-Accounts in Sona Systems erstellen und verwalten. Falls Sie ein Anrecht auf einen Forschenden-Account haben (sehen Sie hierzu den Abschnitt [Wer kann einen Forschenden-Account erhalten?]), wenden Sie sich bitte unter [sona@uni-mainz.de](mailto:sona@uni-mainz.de?subject=Frage zu Sona - Researcher) an die Administration.
+Nur die Administration kann Forschenden-Accounts in Sona Systems erstellen und verwalten. Falls Sie ein Anrecht auf einen Forschenden-Account haben (sehen Sie hierzu den Abschnitt [Wer kann einen Forschenden-Account erhalten?]), wenden Sie sich bitte unter [sona@uni-mainz.de](mailto:sona@uni-mainz.de?subject=Frage zu Sona - Researcher) an die Administration. 
+
 
 
 ## Rollen im System
 
 In Sona gibt es zwei Rollen für Foscher\*innen – Researchers und Principal Investigators (P.I.s). Dieses Handbuch gilt für beide Rollen und nutzt deshalb den Sammelbegriff „Forschende“ für beide Rollen. 
-Der\*die P.I. kann bei einer Studie prinzipiell dieselben Funktionen ausführen wie ein Researcher. Der Hauptunterschied zwischen einem P.I.- und einem Researcher-Konto besteht darin, dass Researcher die Möglichkeit haben, Routine-E-Mails vom System über ihre Studie zu erhalten. Dies sind z. B. Benachrichtigungen, wenn sich Versuchspersonen für die Studie anmelden oder abmelden. Der\*die P.I. hat keine Möglichkeit, solche E-Mails zu erhalten. Somit sollten Personen, die für die Datenerhebung (insbesondere im Labor) zuständig sind, einen Researcher-Account erhalten, während Projektleiter\*innen  einen P.I. Account erhalten sollten. Für jede Studie muss mindestens ein Researcher und ein P.I. ausgewählt werden. 
+Der\*die P.I. kann bei einer Studie prinzipiell dieselben Funktionen ausführen wie ein Researcher. Der Hauptunterschied zwischen einem P.I.- und einem Researcher-Konto besteht darin, dass Researcher die Möglichkeit haben, Routine-E-Mails vom System über ihre Studie zu erhalten. Dies sind z. B. Benachrichtigungen, wenn sich Versuchspersonen für die Studie anmelden oder abmelden. Der\*die P.I. hat keine Möglichkeit, solche E-Mails zu erhalten. Somit sollten Personen, die für die Datenerhebung (insbesondere im Labor) zuständig sind, einen Researcher-Account erhalten, während Projektleiter\*innen (in der Regel Professor\*innen) einen P.I. Account erhalten sollten. Für jede Studie muss mindestens ein Researcher und ein P.I. ausgewählt werden. 
 
 
 ## Kann ich die Website auch auf Deutsch sehen?
@@ -70,7 +71,7 @@ Sona Systems unterscheidet fünf Arten von Studien, wobei jede Art entweder mit 
 
 -	**Standard Study:** normale Laborstudie (nicht online) 
 -	**Multi-Part Standard Study:** normale Laborstudie (nicht online), die aus mindestens zwei Teilen besteht 
--	**Online External Study:** Online-Studie, die auf einer anderen Website durchgeführt wird als Sona (z. B. SoSci Survey, Open-Lab usw.). Dies ist bei den meisten Online-Studien der Fall. 
+-	**Online External Study:** Online-Studie, die auf einer anderen Website durchgeführt wird als Sona (z. B. SoSci Survey, Open-Lab usw.). Dies ist bei den meisten Online-Studien der Fall. **Tipp:** Für Online-Studien ist es möglich, automatisiert VP-Stunden zu vergeben, sobald eine Versuchsperson die letzte Seite Ihres Experiments oder Fragebogens erreicht hat. Lesen Sie den Abschnitt [ Wie vergebe ich VP-Stunden für Online-Studien? ] für eine Anleitung zur Implementierung in SoSci Survey. 
 -	**Multi-Part Online External Study:** Online-Studie, die auf einer anderen Website durchgeführt wird als Sona und mehrere Messzeitpunkte hat
 -	**Online Internal Survey Study:** Online-Befragung innerhalb von Sona 
 
@@ -377,10 +378,11 @@ Wenn Versuchspersonen sich für Ihre Online-Studie anmelden, aber nicht oder nic
 
 ## Wie viele VP-Stunden darf ich vergeben?
 
-Die Anzahl der Versuchspersonen-Stunden (VP-Stunden), die Sie für die Teilnahme an einer Studie vergeben dürfen, entspricht der Dauer der Studie. Für die zusätzliche Zeit, die bei der An- und Abreise im Rahmen der Teilnahme an Laborstudien anfällt, können Versuchspersonen zusätzlich 0,25 VP-Stunden Wegzeit gutgeschrieben werden. Da die kleinste Einheit einer VP-Stunde ein Viertel VP-Stunde (0,25) ist, wird im Zweifelsfall aufgerundet.
+Die Anzahl der Versuchspersonen-Stunden (VP-Stunden), die Sie für die Teilnahme an einer Studie vergeben dürfen, entspricht der Dauer der Studie. Da die kleinste Einheit einer VP-Stunde ein halbe VP-Stunde (0,5) ist, wird im Zweifelsfall aufgerundet.
 
-* Beispiel 1: Eine Online-Studie dauert 10 Minuten. Für die Teilnahme können Sie 0,25 VP-Stunden vergeben.
-* Beispiel 2: Eine Laborstudie dauert 70 Minuten (1,25 VP-Stunden). Für die Wegzeit können Sie zusätzlich 0,25 VP-Stunden vergeben. Somit können Sie für die Teilnahme an dieser Studie insgesamt 1,5 VP-Stunden vergeben. 
+* Beispiel 1: Eine Online-Studie dauert 10 Minuten. Für die Teilnahme können Sie 0,5 VP-Stunden vergeben.
+* Beispiel 2: Eine Laborstudie dauert 70 Minuten. Für die Teilnahme können Sie 1,5 VP-Stunden vergeben. 
+
 
 Bei Laborstudien zählt eine ggf. nötige Vor- und Nachbereitungszeit, bei der die Versuchsperson anwesend ist, selbstverständlich zur Dauer der Studie dazu. Bei Laborstudien kann es zudem passieren, dass die Studie länger dauert als geplant. In diesem Fall können Sie die vergebenen VP-Stunden anpassen (sehen Sie dazu den Abschnitt [Was ist, wenn eine Studie länger oder kürzer dauert als geplant?] in diesem Handbuch). Falls eine Versuchsperson die Teilnahme an einer Laborstudie vorzeitig abbricht, vergeben Sie ihr bitte so viele VP-Stunden, wie sie Zeit im Experiment verbracht hat. 
 
