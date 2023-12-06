@@ -11,7 +11,6 @@ description: "Dies ist das Researcher-Handbuch für Sona Systems des psychologis
 link-citations: yes
 github-repo:  AMD-Lab/sona-researcher-jgu
 lang: de
-
 ---
 
 ```{r include=FALSE}
@@ -19,23 +18,22 @@ options(width = 60)
 options(warning.length = 100)
 ```
 
-
-
 # Allgemeine Informationen
 
-Dies ist das Sona-Handbuch für Forscher*innen. Falls Sie Versuchsperson sind, gelangen Sie hier (https://amd-lab.github.io/sona-participants-jgu.html) zum Sona-Handbuch für Versuchspersonen.
+Dies ist das Sona-Handbuch für Forscher*innen. Das Sona-Handbuch für Versuchspersonen finden Sie unter dierser Adresse:
 
-Sona-Website der Universität Mainz: https://uni-mainz-jgu.sona-systems.com
+- https://amd-lab.github.io/sona-participants-jgu.html
 
+Die Sona-Website der Johannes Gutenberg-Universität Mainz finden Sie unter dieser Adresse:
+
+- https://uni-mainz-jgu.sona-systems.com
 
 
 ## Was ist Sona und welche Vorteile bietet es?
 
-Sona Systems ist ein Onlineportal, das Forscher\*innen in der Verwaltung von wissenschaftlichen Studien und deren Teilnehmer\*innen unterstützt. Forscher\*innen können über Sona Versuchspersonen rekrutieren, Zeitfenster („Timeslots“) für Studien einstellen und die Teilnahme an Studien mit Versuchspersonen-Stunden (VP-Stunden) vergüten. Dies ist über den Webbrowser oder die Sona App (eingeschränkte Nutzungsfunktionen) möglich. Sie können in Sona Systems sowohl Online-Studien als auch Laborstudien verwalten. Beide Studienformen können zudem als mehrteilige Studien angelegt werden. 
+**Sona Systems** ist ein Onlineportal, das Forscher\*innen in der Verwaltung von wissenschaftlichen Studien und deren Teilnehmer\*innen unterstützt. Forscher\*innen können über Sona Versuchspersonen rekrutieren, Zeitfenster („Timeslots“) für Studien einstellen und die Teilnahme an Studien mit Versuchspersonen-Stunden (VP-Stunden) vergüten. Dies ist über den Webbrowser oder die Sona App (eingeschränkte Nutzungsfunktionen) möglich. Sie können in Sona Systems sowohl Online-Studien als auch Laborstudien verwalten. Beide Studienformen können zudem als mehrteilige Studien angelegt werden.
 
-
-Sona bietet direkten Zugang zu einem großen Pool an möglichen Versuchspersonen. In diesem Pool befinden sich alle Psychologiestudierenden, die derzeit Versuchspersonen-Stunden erwerben müssen, aber auch Studierende andere Fächer und Personen mit einer anderen beruflichen Tätigkeit. Die Versuchspersonen für Ihre Studie können bei Bedarf vorselektiert („gescreent“) werden. 
-
+Sona bietet direkten Zugang zu einem großen Pool an möglichen Versuchspersonen. In diesem Pool befinden sich alle Psychologiestudierenden, die derzeit Versuchspersonen-Stunden erwerben müssen, aber auch Studierende andere Fächer und Personen mit einer anderen beruflichen Tätigkeit. Die Versuchspersonen für Ihre Studie können bei Bedarf vorselektiert („gescreent“) werden.
 
 Sona Systems verringert den Arbeitsaufwand erheblich, den Forscher*innen bislang mit der Organisation von Studienterminen und der Vergabe von VP-Stunden per E-Mail hatten. Diese können in Sona Systems nun mit nur einem Mausklick vergeben werden. 
 
@@ -50,17 +48,16 @@ Nur Mitarbeiter\*innen des Psychologischen Instituts der Johannes-Gutenberg-Univ
 Nur die Administration kann Forschenden-Accounts in Sona Systems erstellen und verwalten. Falls Sie ein Anrecht auf einen Forschenden-Account haben (sehen Sie hierzu den Abschnitt [Wer kann einen Forschenden-Account erhalten?]), wenden Sie sich bitte unter [sona@uni-mainz.de](mailto:sona@uni-mainz.de?subject=Frage zu Sona - Researcher) an die Administration. 
 
 
-
 ## Rollen im System
 
 In Sona gibt es zwei Rollen für Foscher\*innen – Researchers und Principal Investigators (P.I.s). Dieses Handbuch gilt für beide Rollen und nutzt deshalb den Sammelbegriff „Forschende“ für beide Rollen. 
-Der\*die P.I. kann bei einer Studie prinzipiell dieselben Funktionen ausführen wie ein Researcher. Der Hauptunterschied zwischen einem P.I.- und einem Researcher-Konto besteht darin, dass Researcher die Möglichkeit haben, Routine-E-Mails vom System über ihre Studie zu erhalten. Dies sind z. B. Benachrichtigungen, wenn sich Versuchspersonen für die Studie anmelden oder abmelden. Der\*die P.I. hat keine Möglichkeit, solche E-Mails zu erhalten. Somit sollten Personen, die für die Datenerhebung (insbesondere im Labor) zuständig sind, einen Researcher-Account erhalten, während Projektleiter\*innen (in der Regel Professor\*innen) einen P.I. Account erhalten sollten. Für jede Studie muss mindestens ein Researcher und ein P.I. ausgewählt werden. 
+
+P.I.s können bei einer Studie prinzipiell dieselben Funktionen ausführen wie ein Researcher. Der Hauptunterschied zwischen einem P.I.- und einem Researcher-Konto besteht darin, dass Researcher die Möglichkeit haben, Routine-E-Mails vom System über ihre Studie zu erhalten. Dies sind z. B. Benachrichtigungen, wenn sich Versuchspersonen für die Studie anmelden oder abmelden. Der\*die P.I. hat keine Möglichkeit, solche E-Mails zu erhalten. Somit sollten Personen, die für die Datenerhebung (insbesondere im Labor) zuständig sind, einen Researcher-Account erhalten, während Projektleiter\*innen (in der Regel Professor\*innen) einen P.I. Account erhalten sollten. Für jede Studie muss mindestens ein Researcher und ein P.I. ausgewählt werden.
 
 
 ## Kann ich die Website auch auf Deutsch sehen?
 
 Nein, für Forscher\*innen ist die Website leider nur auf Englisch verfügbar. Für die Versuchspersonen ist die Website allerdings auf Deutsch und wahlweise Englisch verfügbar. 
-
 
 
 # Studien einstellen und verwalten
@@ -69,9 +66,9 @@ Nein, für Forscher\*innen ist die Website leider nur auf Englisch verfügbar. F
 
 Sona Systems unterscheidet fünf Arten von Studien, wobei jede Art entweder mit VP-Stunden („Credit“) oder mit einer Bezahlung („Paid“; auch Gutscheine o.Ä. möglich) vergütet werden kann. Studien, in denen Teilnehmer\*innen zwischen VP-Stunden und Bezahlung wählen können, werden als „Credit“-Studie angelegt. Die alternative Aufwandsentschädigung wird dann in der Beschreibung der Studie erwähnt. 
 
--	**Standard Study:** normale Laborstudie (nicht online) 
--	**Multi-Part Standard Study:** normale Laborstudie (nicht online), die aus mindestens zwei Teilen besteht 
--	**Online External Study:** Online-Studie, die auf einer anderen Website durchgeführt wird als Sona (z. B. SoSci Survey, Open-Lab usw.). Dies ist bei den meisten Online-Studien der Fall. **Tipp:** Für Online-Studien ist es möglich, automatisiert VP-Stunden zu vergeben, sobald eine Versuchsperson die letzte Seite Ihres Experiments oder Fragebogens erreicht hat. Lesen Sie den Abschnitt [ Wie vergebe ich VP-Stunden für Online-Studien? ] für eine Anleitung zur Implementierung in SoSci Survey. 
+-	**Standard Study:** Normale Laborstudie (nicht online)
+-	**Multi-Part Standard Study:** Normale Laborstudie (nicht online), die aus mindestens zwei Teilen besteht
+-	**Online External Study:** Online-Studie, die auf einer anderen Website durchgeführt wird als Sona (z. B. SoSci Survey, Open-Lab usw.). Dies ist bei den meisten Online-Studien der Fall. **Tipp:** Für Online-Studien ist es möglich, automatisiert VP-Stunden zu vergeben, sobald eine Versuchsperson die letzte Seite Ihres Experiments oder Fragebogens erreicht hat. Lesen Sie den Abschnitt [Wie vergebe ich VP-Stunden für Online-Studien?] für eine Anleitung zur Implementierung in SoSci Survey.
 -	**Multi-Part Online External Study:** Online-Studie, die auf einer anderen Website durchgeführt wird als Sona und mehrere Messzeitpunkte hat
 -	**Online Internal Survey Study:** Online-Befragung innerhalb von Sona 
 
@@ -186,13 +183,15 @@ knitr::include_graphics('images/Folie18.png')
 ## Wie lange dauert es, bis meine Studie auf Sona genehmigt („approved“) ist?
 
 Bevor Versuchspersonen Ihre Studie auf Sona angezeigt bekommen, muss die Administration auf Sona die Studie genehmigen („approven“). Im Regelfall sollte dies nicht länger als 48 Stunden dauern.
-Sollten Sie jedoch im Ausnahmefall länger als 48 Stunden keine Rückmeldung zu Ihrer Studie erhalten haben, schreiben Sie bitte eine E-Mail an die Administration (sona@uni-mainz.de), dass Sie auf die Genehmigung Ihrer Studie warten. 
+
+Sollten Sie jedoch im Ausnahmefall länger als 48 Stunden keine Rückmeldung zu Ihrer Studie erhalten haben, schreiben Sie bitte eine E-Mail an die Administration (sona@uni-mainz.de), dass Sie auf die Genehmigung Ihrer Studie warten.
 
 
 ## Welche Kriterien spielen bei der Genehmigung meiner Studie eine Rolle?
 
 Ihre Studie wird von der Administration geprüft („approved“), bevor Versuchspersonen sie auf Sona angezeigt bekommen. Hierbei handelt es sich lediglich um eine Überprüfung der angegebenen Informationen, ob beispielsweise die Studiendauer und die Anzahl der vergebenen VP-Stunden übereinstimmen. Wissenschaftliche oder ethische Gesichtspunkte der Studie werden nicht überprüft. 
-Bei der Überprüfung der Studie kann es vorkommen, dass Sie von der Administration darum gebeten werden, mehr Informationen zur Studie anzugeben oder bestimmte Einstellungen anzupassen. Dies kann die Genehmigung verzögern. 
+
+Bei der Überprüfung der Studie kann es vorkommen, dass Sie von der Administration darum gebeten werden, mehr Informationen zur Studie anzugeben oder bestimmte Einstellungen anzupassen. Dies kann die Genehmigung verzögern.
 
 
 ## Studieninformationen ändern
@@ -218,9 +217,9 @@ Sie können Ihre Studie auf „inactive“ setzen, sobald sich keine weiteren Ve
 <br>
 <b>Studie löschen</b>
 
-Eine Studie kann nur gelöscht werden, wenn…
+Eine Studie kann nur gelöscht werden, wenn ...
 
-*	Keine Versuchspersonen mehr dafür angemeldet sind und...
+*	Keine Versuchspersonen mehr dafür angemeldet sind und ...
 *	bisher keine VP-Stunden für die Studie vergeben wurden. Grund dafür: Um im System die geleisteten Versuchspersonenstunden der Studierenden zu verwalten, müssen alle Studien, die dazu beigetragen haben, intakt bleiben. Daher sollten Studien, die mit VP-Stunden vergütet wurden, nicht gelöscht werden, sondern auf „inactive“ gesetzt werden!
 
 1.	Gehen Sie in die Detailansicht der Studie (Namen der Studie anklicken).
@@ -281,7 +280,6 @@ Um eine Liste von Anmeldungen für Ihrer Studie zu erhalten, gehen Sie bitte wie
 ```{r echo = FALSE, out.width='92%', fig.align='center'}
 knitr::include_graphics('images/Folie19.png') 
 ```
-
 
 
 ## Angemeldete Versuchspersonen kontaktieren
@@ -373,7 +371,6 @@ Sollte eine Versuchsperson wiederholt nicht zu vereinbarten Terminen erscheinen,
 Wenn Versuchspersonen sich für Ihre Online-Studie anmelden, aber nicht oder nicht vollständig an dieser teilnehmen, vergeben Sie bitte ein „Excused No-Show“. Der Grund hierfür ist, dass nicht nachvollzogen werden kann, aus welchen Gründen die Versuchsperson nicht (vollständig) an der Studie teilgenommen hat. Beispielsweise könnte sie sich beim Lesen der Studieninformationen oder Einverständniserklärung gegen eine Teilnahme an der Studie entschieden haben. 
 
 
-
 # Vergütung
 
 ## Wie viele VP-Stunden darf ich vergeben?
@@ -387,7 +384,6 @@ Die Anzahl der Versuchspersonen-Stunden (VP-Stunden), die Sie für die Teilnahme
 Bei Laborstudien zählt eine ggf. nötige Vor- und Nachbereitungszeit, bei der die Versuchsperson anwesend ist, selbstverständlich zur Dauer der Studie dazu. Bei Laborstudien kann es zudem passieren, dass die Studie länger dauert als geplant. In diesem Fall können Sie die vergebenen VP-Stunden anpassen (sehen Sie dazu den Abschnitt [Was ist, wenn eine Studie länger oder kürzer dauert als geplant?] in diesem Handbuch). Falls eine Versuchsperson die Teilnahme an einer Laborstudie vorzeitig abbricht, vergeben Sie ihr bitte so viele VP-Stunden, wie sie Zeit im Experiment verbracht hat. 
 
 
-
 ## Was ist, wenn eine Studie länger oder kürzer dauert als geplant?
 
 Wenn eine Laborstudie länger dauert als geplant, können Sie die vergebenen VP-Stunden anpassen (lesen Sie auch den Abschnitt [Wie vergebe ich VP-Stunden für Laborstudien?]). Fügen Sie bei der Vergabe der VP-Stunden bitte einen entsprechenden Kommentar bei. 
@@ -397,15 +393,12 @@ Wenn eine Versuchsperson in Ihre Studie schneller bearbeitet hat als geplant, m�
 Vergeben Sie bei Online-Studien bitte immer die in der Studienbeschreibung genannten VP-Stunden, vorausgesetzt die Versuchsperson hat vollständig an Ihrer Studie teilgenommen. Falls nicht, vergeben Sie bitte 0 (null) VP-Stunden.
 
 
-
 ## Kann ich die Versuchsteilnahme durch besondere Anreize (z.B. Teilnahme an einer Lotterie) zusätzlich vergüten?
 
 Aus Gründen der Fairness gegenüber anderen Forschenden ist es nicht vorgesehen, dass Studien, die mit VP-Stunden vergütet werden, zusätzlich mit Geld oder einer alternativen Vergütung entlohnt werden. Wahlweise eine Alternative zur Vergütung mit VP-Stunden anzubieten (z.B. VP-Stunden <i>oder</i> Geld) ist natürlich zulässig. Von dieser Regel ausgenommen sind kleine nicht-monetäre Anreize während der Studie wie z.B. Schokolade. Weiterhin können bei Studien, deren Versuchsdesign das Auszahlen zusätzlicher Anreize vorsieht (z. B. im Rahmen leistungsabhängiger Belohnung), Ausnahmen gemacht werden. Kontaktieren Sie dazu im Zweifelsfall die Administration, um Details zu besprechen.
 
 
-
 ## Wie vergebe ich VP-Stunden für Laborstudien? 
-
 
 Wenn Versuchspersonen erfolgreich an Ihrer Laborstudie teilgenommen haben, vergeben Sie bitte die entsprechenden VP-Stunden innerhalb von 3 Werktagen. 
 
@@ -431,7 +424,6 @@ knitr::include_graphics('images/Folie25.png')
 ```
 
 Sollten Sie die Vergabe der VP-Stunden nicht zeitnah erledigen, erhalten Sie System-E-Mails von Sona, die sie darauf hinweisen. Eine automatisierte Vergabe von VP-Stunden für Laborstudien durch Sona kann nicht erfolgen, da Sie bestätigen müssen, dass die Versuchspersonen tatsächlich zu Ihrem Experiment erschienen sind. 
-
 
 
 ## Wie vergebe ich VP-Stunden für Online-Studien? 
@@ -496,7 +488,7 @@ Die drei häufigsten Probleme bei der Einrichtung einer automatischen VP-Stunden
 * Tippfehler beim Einfügen von %SURVEY_CODE% in das Feld `Study-URL` in Sona (Schritt 3). Der Link muss genau wie in dieser Dokumentation beschrieben verändert werden, sonst funktioniert es nicht. 
 
 
-Weitere Informationen zur Automatischen Vergabe von VP-Stunden über SoSci Survey finden Sie unter: https://www.sona-systems.com/help/soscisurvey/
+Weitere Informationen zur automatischen Vergabe von VP-Stunden über SoSci Survey finden Sie unter: https://www.sona-systems.com/help/soscisurvey/
 
 
 <br>
@@ -516,9 +508,7 @@ Vergleichen Sie diese Daten nach Ende Ihrer Erhebung mit der Liste von angemelde
 * Bei Nicht-Teilnahme: entschuldigtes Fehlen („Excused No-Show“) 
 
 
-
 # Sonstiges
-
 
 ## Passwort vergessen?
 
@@ -536,11 +526,9 @@ knitr::include_graphics('images/Folie26.png')
 4.	Daraufhin wird Ihnen ein Link zum Zurücksetzen Ihres Kennworts per E-Mail zugesandt. Dieser Link ist 24 Stunden lang gültig. Sobald Sie auf den Link klicken, wird ein neues Passwort generiert und Ihnen per E-Mail zugeschickt. Falls Sie eine Kennwortzurücksetzung angefordert haben und nach 30 Minuten noch keine E-Mail vom System eingetroffen ist, überprüfen Sie den Junk-Mail-Ordner Ihres E-Mail-Programms. 
 
 
-
 ## Sona APP
 
 Es gibt eine kostenlose Sona App, die Sie im App Store (IOS) oder Google Play Store (Android) herunterladen können. Suchen Sie dafür nach „Sona“ oder „Sona Mobile“. Im Gegensatz zur Browser-Version hat die App allerdings nur eingeschränkte Funktionen.
-
 
 
 ## Forschenden-Account löschen oder deaktivieren
@@ -548,13 +536,10 @@ Es gibt eine kostenlose Sona App, die Sie im App Store (IOS) oder Google Play St
 Forschenden-Accounts können nur durch die Administration gelöscht oder deaktiviert werden. Falls Sie Ihren Account löschen oder deaktivieren möchten, schreiben Sie bitte eine E-Mail an sona@uni-mainz.de.
 
 
-
 ## Noch Fragen? 
 
 Auf der offiziellen Website von Sona Systems (https://www.sona-systems.com/researcher-documentation/) gibt es eine ausführliche Dokumentation auf Englisch. 
 Falls Sie weitere Fragen oder Probleme haben, wenden Sie sich bitte an die Administration unter sona@uni-mainz.de.
-
-
 
 
 ```{r include=FALSE}
