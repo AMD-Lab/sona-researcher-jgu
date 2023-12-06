@@ -41,3 +41,21 @@ kbd {
   background-color: rgb(247, 247, 247);
   text-shadow: 0 1px 0 #fff;
 }
+
+
+
+.book .book-summary {
+  width: 400px;
+  position:absolute;
+  top:0;
+  left:-400px;
+}
+
+.book.with-summary .book-header.fixed {
+    left: 400px;
+}
+
+.book.with-summary .book-body {
+    left: 400px;
+}
+
