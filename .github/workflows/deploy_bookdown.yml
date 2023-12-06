@@ -29,10 +29,8 @@ jobs:
       # - uses: r-lib/actions/setup-renv@v2
       - name: Install rmarkdown
         run: |
-          options(pkgType = "binary")
-          options(install.packages.check.source = "no")
-          install.packages(c("rmarkdown","bookdown", "tinytex"))
-          tinytex::install_tinytex()
+          R -e 'install.packages(c("rmarkdown", "bookdown", "tinytex")); tinytex::install_tinytex()'
+          
         shell: Rscript {0}
       
       - name: Cache bookdown results
