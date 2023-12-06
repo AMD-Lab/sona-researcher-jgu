@@ -1,9 +1,17 @@
 # r files
 .Rhistory
+.RData
 
 # jet brains
 .idea/
 
+# mac
 .DS_Store
+
+# project specific
+_bookdown_files/*
 docs/
 packages.bib
+
+# Latex files
+*.log
