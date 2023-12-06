@@ -1,0 +1,65 @@
+on:
+  push:
+    branches:
+      - main
+
+
+
+name: renderbook
+
+jobs:
+  bookdown:
+    name: Render-Book
+    runs-on: macOS-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v1
+      - name: Install pandoc
+        uses: r-lib/actions/setup-pandoc@v1
+      - name: Install rmarkdown
+        run: |
+          options(pkgType = "binary")
+          options(install.packages.check.source = "no")
+          install.packages(c("rmarkdown","bookdown", "tidyverse", "psych", "palmerpenguins", "ggbeeswarm", "ggpubr", "tinytex"))
+          tinytex::install_tinytex()
+        shell: Rscript {0}
+      - name: Render pdf book
+        run: |
+          bookdown::render_book("index.Rmd", "bookdown::pdf_book")
+        shell: Rscript {0}
+      - name: Render gitbook
+        run: |
+          bookdown::render_book("index.Rmd", "bookdown::gitbook")
+        shell: Rscript {0}
+      - name: Upload artifact
+        uses: actions/upload-artifact@v1
+        with:
+          name: docs
+          path: docs/
+
+  # Need to first create an empty gh-pages branch
+  # see https://pkgdown.r-lib.org/reference/deploy_site_github.html
+  # and also add secrets for a GH_PAT and EMAIL to the repository
+  # gh-action from Cecilapp/GitHub-Pages-deploy
+  checkout-and-deploy:
+    runs-on: ubuntu-latest
+    needs: bookdown
+    steps:
+      - name: Checkout
+        uses: actions/checkout@main
+      - name: Download artifact
+        uses: actions/download-artifact@v1.0.0
+        with:
+          # Artifact name
+          name: docs # optional
+          # Destination path
+          # path: docs/ # optional
+      - name: Deploy to GitHub Pages
+        uses: Cecilapp/GitHub-Pages-deploy@3.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          email: ${{ secrets.EMAIL }}
+          build_dir: docs

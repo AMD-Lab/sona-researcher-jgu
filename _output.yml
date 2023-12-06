@@ -13,6 +13,7 @@ bookdown::gitbook:
         Veröffentlicht auf GitHub, erstellt mit bookdown</a></li>
 
     download: pdf
+
 bookdown::pdf_book:
   # template: template.tex
   pandoc_args: --top-level-division=chapter
