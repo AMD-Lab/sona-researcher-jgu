@@ -26,12 +26,7 @@ jobs:
         with:
           use-public-rspm: true
 
-      # - uses: r-lib/actions/setup-renv@v2
-      - name: Install rmarkdown
-        run: |
-          R -e 'install.packages(c("rmarkdown", "bookdown", "tinytex")); tinytex::install_tinytex()'
-          
-        shell: Rscript {0}
+      - uses: r-lib/actions/setup-renv@v2
       
       - name: Cache bookdown results
         uses: actions/cache@v3
