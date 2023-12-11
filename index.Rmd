@@ -1,6 +1,6 @@
 --- 
 title: "Sona Researcher Handbuch"
-author: "Clara Wiebel"
+author: "Clara Wiebel, José Carlos García Alanis"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -20,9 +20,9 @@ options(warning.length = 100)
 
 # Allgemeine Informationen
 
-Dies ist das Sona-Handbuch für Forscher*innen. Das Sona-Handbuch für Versuchspersonen finden Sie unter dierser Adresse:
+Dies ist das Sona-Handbuch für Forscher*innen. Das Sona-Handbuch für Versuchspersonen finden Sie unter dieser Adresse:
 
-- https://amd-lab.github.io/sona-participants-jgu.html
+- https://amd-lab.github.io/sona-participants-jgu/
 
 Die Sona-Website der Johannes Gutenberg-Universität Mainz finden Sie unter dieser Adresse:
 
