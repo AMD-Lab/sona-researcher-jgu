@@ -45,7 +45,10 @@ Nur Mitarbeiter\*innen des Psychologischen Instituts der Johannes-Gutenberg-Univ
 
 ## Wie kann ich meinen Forschenden-Account erhalten?
 
-Nur die Administration kann Forschenden-Accounts in Sona Systems erstellen und verwalten. Falls Sie ein Anrecht auf einen Forschenden-Account haben (sehen Sie hierzu den Abschnitt [Wer kann einen Forschenden-Account erhalten?]), wenden Sie sich bitte unter [sona@uni-mainz.de](mailto:sona@uni-mainz.de?subject=Frage zu Sona - Researcher) an die Administration. 
+Nur die Administration kann Forschenden-Accounts in Sona Systems erstellen und verwalten. Falls Sie ein Anrecht auf einen Forschenden-Account haben (sehen Sie hierzu den Abschnitt [Wer kann einen Forschenden-Account erhalten?]), wenden Sie sich bitte unter [sona@uni-mainz.de](mailto:sona@uni-mainz.de?subject=Frage zu Sona - Researcher) an die Administration. Geben Sie in der E-Mail bitte Ihren **Namen**, Ihre **E-Mail-Adresse der Universität Mainz** sowie Ihre **Rolle an der Universität** (Professor\*in, Postdoc, Doktorand\*in, 
+wissenschaftliche Hilfskraft o. Ä.) an. 
+
+Sie erhalten innerhalb der nächsten Tage eine E-Mail von Sona mit Ihren Login-Informationen. Geben Sie auf der Sona Startseite (https://uni-mainz-jgu.sona-systems.com) unter "User ID" bitte Ihren Benutzernamen und unter "Password" das vom System generierte Passwort ein. Sobald Sie sich das erste Mal eingeloggt haben, können Sie auch den Knopf "JGU-Account Log In" auf der Sona Startseite verwenden, um sich direkt über Ihre Universitäts-E-Mail-Adresse einzuloggen. Nach dem ersten Login sollten Sie Ihr Passwort zu einem sichereren Passwort ändern. 
 
 
 ## Rollen im System
