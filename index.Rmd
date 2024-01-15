@@ -40,22 +40,26 @@ Sona Systems verringert den Arbeitsaufwand erheblich, den Forscher*innen bislang
 
 ## Wer kann einen Forschenden-Account erhalten?
 
-Nur Mitarbeiter\*innen des Psychologischen Instituts der Johannes-Gutenberg-Universität Mainz können einen Forschenden-Account („Researcher Account“) erhalten. Wissenschaftliche Hilfskräfte sind auch Angehörige des psychologischen Instituts und können somit ebenfalls einen Account erhalten. Studierende erhalten grundsätzlich keine Forschenden-Accounts, auch nicht für Abschlussarbeiten. Für die Verwaltung von Abschlussarbeiten und ggf. die Vergabe von Versuchspersonen-Stunden (VP-Stunden) ist der\*die jeweilige Betreuer\*in der Abschlussarbeit verantwortlich.
+Alle Mitarbeiter\*innen des Psychologischen Instituts der Johannes-Gutenberg-Universität Mainz können einen Forschenden-Account („Researcher Account“) erhalten. Wissenschaftliche Hilfskräfte sind auch Angehörige des psychologischen Instituts und können somit ebenfalls einen Forschenden-Account erhalten. Studierende erhalten grundsätzlich keine Forschenden-Accounts für experimentelle Praktika oder ähnliche Lehrveranstaltungen. Ob Studierende für die Verwaltung ihrer Abschlussarbeit einen eigenen Forschenden-Account erhalten oder z.B. stattdessen die Zugangsdaten zu einem gemeinsamen Funktionsaccount für alle Abschlussarbeiten, wird von den Abteilungen intern geregelt. Für die Verwaltung der Abschlussarbeit und ggf. die Vergabe von Versuchspersonen-Stunden (VP-Stunden) ist der\*die jeweilige Betreuer\*in der Abschlussarbeit verantwortlich.
 
 
 ## Wie kann ich meinen Forschenden-Account erhalten?
 
-Nur die Administration kann Forschenden-Accounts in Sona Systems erstellen und verwalten. Falls Sie ein Anrecht auf einen Forschenden-Account haben (sehen Sie hierzu den Abschnitt [Wer kann einen Forschenden-Account erhalten?]), wenden Sie sich bitte unter [sona@uni-mainz.de](mailto:sona@uni-mainz.de?subject=Frage zu Sona - Researcher) an die Administration. Geben Sie in der E-Mail bitte Ihren **Namen**, Ihre **E-Mail-Adresse der Universität Mainz** sowie Ihre **Rolle an der Universität** (Professor\*in, Postdoc, Doktorand\*in, 
+Nur die Administration kann Forschenden-Accounts in Sona Systems erstellen und verwalten. Falls Sie ein Anrecht auf einen Forschenden-Account haben (sehen Sie hierzu [Wer kann einen Forschenden-Account erhalten?]), wenden Sie sich bitte unter [sona@uni-mainz.de](mailto:sona@uni-mainz.de?subject=Frage zu Sona - Researcher) an die Administration. Geben Sie in der E-Mail bitte...
+
+1. Ihren **Namen**, 
+2. Ihre **E-Mail-Adresse der Universität Mainz** sowie 
+3. Ihre **Rolle an der Universität** (Professor\*in, Postdoc, Doktorand\*in, 
 wissenschaftliche Hilfskraft o. Ä.) an. 
 
-Sie erhalten innerhalb der nächsten Tage eine E-Mail von Sona mit Ihren Login-Informationen. Geben Sie auf der Sona Startseite (https://uni-mainz-jgu.sona-systems.com) unter "User ID" bitte Ihren Benutzernamen und unter "Password" das vom System generierte Passwort ein. Sobald Sie sich das erste Mal eingeloggt haben, können Sie auch den Knopf "JGU-Account Log In" auf der Sona Startseite verwenden, um sich direkt über Ihre Universitäts-E-Mail-Adresse einzuloggen. Nach dem ersten Login sollten Sie Ihr Passwort zu einem sichereren Passwort ändern. 
+Sie erhalten innerhalb der nächsten Tage eine E-Mail von Sona mit Ihren Login-Informationen. Geben Sie auf der Sona Startseite (https://uni-mainz-jgu.sona-systems.com) unter "User ID" bitte Ihren Benutzernamen und unter "Password" das vom System generierte Passwort ein. Sobald Sie sich das erste Mal eingeloggt haben, können Sie auch den Knopf "JGU-Account Log In" auf der Sona Startseite verwenden, um sich direkt über Ihre Universitäts-E-Mail-Adresse einzuloggen. Falls Sie nicht den Log-In über Ihren JGU-Account nutzen möchten, sollten Sie Ihr Passwort zu einem sichereren Passwort ändern. 
 
 
 ## Rollen im System
 
-In Sona gibt es zwei Rollen für Foscher\*innen – Researchers und Principal Investigators (P.I.s). Dieses Handbuch gilt für beide Rollen und nutzt deshalb den Sammelbegriff „Forschende“ für beide Rollen. 
+In Sona gibt es zwei Rollen für Foscher\*innen – Researcher und Principal Investigator (P.I.). Dieses Handbuch gilt für beide Rollen und nutzt deshalb den Sammelbegriff „Forschende“ für beide Rollen. Für jede Studie in Sona muss mindestens ein Researcher und genau ein P.I. ausgewählt werden. Dabei ist der Researcher für die Datenerhebung (insbesondere im Labor) und die Kommunikation mit den Versuchspersonen zuständig, während der P.I. die Rolle des\*der Projektleiter\*in einnimmt (in der Regel Professor\*innen). 
 
-P.I.s können bei einer Studie prinzipiell dieselben Funktionen ausführen wie ein Researcher. Der Hauptunterschied zwischen einem P.I.- und einem Researcher-Konto besteht darin, dass Researcher die Möglichkeit haben, Routine-E-Mails vom System über ihre Studie zu erhalten. Dies sind z. B. Benachrichtigungen, wenn sich Versuchspersonen für die Studie anmelden oder abmelden. Der\*die P.I. hat keine Möglichkeit, solche E-Mails zu erhalten. Somit sollten Personen, die für die Datenerhebung (insbesondere im Labor) zuständig sind, einen Researcher-Account erhalten, während Projektleiter\*innen (in der Regel Professor\*innen) einen P.I. Account erhalten sollten. Für jede Studie muss mindestens ein Researcher und ein P.I. ausgewählt werden.
+P.I.s können bei einer Studie prinzipiell dieselben Funktionen ausführen wie ein Researcher. Der Hauptunterschied zwischen einem P.I.- und einem Researcher-Konto besteht darin, dass Researcher die Möglichkeit haben, Routine-E-Mails vom System über ihre Studie zu erhalten. Dies sind z.B. Benachrichtigungen, wenn sich Versuchspersonen für die Studie anmelden oder abmelden. Der\*die P.I. hat keine Möglichkeit, solche E-Mails zu erhalten. Er ist allerdings dafür zuständig, die Studie final zu genehmigen, damit sie den Versuchsperonen auf Sona angezeigt wird. 
 
 
 ## Kann ich die Website auch auf Deutsch sehen?
@@ -71,7 +75,7 @@ Sona Systems unterscheidet fünf Arten von Studien, wobei jede Art entweder mit 
 
 -	**Standard Study:** Normale Laborstudie (nicht online)
 -	**Multi-Part Standard Study:** Normale Laborstudie (nicht online), die aus mindestens zwei Teilen besteht
--	**Online External Study:** Online-Studie, die auf einer anderen Website durchgeführt wird als Sona (z. B. SoSci Survey, Open-Lab usw.). Dies ist bei den meisten Online-Studien der Fall. **Tipp:** Für Online-Studien ist es möglich, automatisiert VP-Stunden zu vergeben, sobald eine Versuchsperson die letzte Seite Ihres Experiments oder Fragebogens erreicht hat. Lesen Sie den Abschnitt [Wie vergebe ich VP-Stunden für Online-Studien?] für eine Anleitung zur Implementierung in SoSci Survey.
+-	**Online External Study:** Online-Studie, die auf einer anderen Website durchgeführt wird als Sona (z.B. SoSci Survey, Open-Lab usw.). Dies ist bei den meisten Online-Studien der Fall. **Tipp:** Für Online-Studien ist es möglich, automatisiert VP-Stunden zu vergeben, sobald eine Versuchsperson die letzte Seite Ihres Experiments oder Fragebogens erreicht hat. Lesen Sie den Abschnitt [Wie vergebe ich VP-Stunden für Online-Studien?] für eine Anleitung zur Implementierung in SoSci Survey.
 -	**Multi-Part Online External Study:** Online-Studie, die auf einer anderen Website durchgeführt wird als Sona und mehrere Messzeitpunkte hat
 -	**Online Internal Survey Study:** Online-Befragung innerhalb von Sona 
 
@@ -87,7 +91,8 @@ knitr::include_graphics('images/Folie10.png')
 
 3.	Wählen Sie die passende Art von Studie aus und klicken sie auf `Continue`.
 4.	Nun geben Sie alle Informationen zu Ihrer Studie ein. Die genauen Erklärungen für die Eingabefelder sind in den folgenden Screenshots aufgeführt. 
-5.	Speichern Sie Ihre Eingabe, indem Sie auf den grünen Knopf `Add this Study` klicken. Die Studie wird den Versuchspersonen nur angezeigt, wenn sie sowohl „aktiv“ als auch „approved“ ist. Sie können die Studie selbst auf „aktiv“ setzen, aber nur die Administration kann Ihre Studie genehmigen („approve“). 
+5.	Speichern Sie Ihre Eingabe, indem Sie auf den grünen Knopf `Add this Study` klicken. Die Studie wird den Versuchspersonen nur angezeigt, wenn sie sowohl „active“ als auch „approved“ ist. Sie können die Studie selbst auf „active“ setzen ([Studie auf „active“ setzen]), aber nur der Principal Investigator (P.I.) Ihrer Studie und die Administration können die Studie genehmigen ([Studie genehmigen lassen ("approve")]).
+
 
 
 ```{r echo = FALSE, out.width='92%', fig.align='center'}
@@ -107,16 +112,38 @@ knitr::include_graphics('images/Folie15.png')
 ```
 
 
-## Studie auf „active“ setzen und genehmigen lassen
+## Studie auf „active“ setzen
 
-Bitte beachten Sie: Bevor Sie Ihre Studie auf „active“ setzen, sollten Sie die ersten Timeslots für Versuchspersonen eingerichtet haben. Sie können Ihre Studie folgendermaßen auf „active“ setzen und eine Genehmigung durch die Administration beantragen: 
+Bitte beachten Sie: Bevor Sie Ihre Studie auf „active“ setzen, sollten Sie die ersten Timeslots für Versuchspersonen eingerichtet haben. Ansonsten kann es passieren, dass die Versuchspersonen Ihre Studie auf Sona sehen, sich aber nicht dafür anmelden können. 
 
 1.	Loggen Sie sich mit Ihrem Forschenden-Account auf https://uni-mainz-jgu.sona-systems.com ein.
 2.	Klicken Sie in der Menüleiste auf `My Studies` und klicken Sie auf den Titel der betreffenden Studie.
 3.	Wählen Sie im `Study Menu` (entweder oben oder ganz unten auf der Website) den Unterpunkt `Change Study Information` aus.
-    a.	Klicken Sie unter `Active Study?` auf „Yes“, um Ihre Studie aktiv zu setzen. 
-    b.	Klicken Sie unter `Approved?` auf den Knopf `Send an Approval Request`, um eine Genehmigung Ihrer Studie durch die Administration zu beantragen. 
-4.	Klicken Sie auf den grünen Knopf `Save Changes`, um Ihre Änderungen zu speichern.
+4.  Klicken Sie unter `Active Study?` auf „Yes“, um Ihre Studie auf aktiv zu setzen. 
+5.	Klicken Sie auf den grünen Knopf `Save Changes`, um Ihre Änderungen zu speichern.
+
+
+
+## Studie genehmigen lassen ("approve")
+
+Nur der Principal Investigator (P.I.) Ihrer Studie kann diese genehmigen (auf "approved" setzen). Sobald Sie einige Timeslots eingestellt und Ihre Studie auf "active" gesetzt haben ([Studie auf „active“ setzen]), sollten Sie Ihren P.I. bitten, Ihre Studie zu genegmigen. 
+
+Falls Ihr P.I. nicht verfügbar ist, kann Ihre Studie auch durch die Administration genehmigt werden. Klicken Sie dafür unter `Change Study Information` Ihrer Studie im Abschnitt `Approved?` auf den Knopf `Send an Approval Request`, um eine Genehmigung durch die Administration zu beantragen. Diese wird an Werktagen normalerweise innerhalb der nächsten 48 Stunden vorgenommen. Sollten Sie länger als 48 Stunden keine Rückmeldung zu Ihrer Studie erhalten haben, schreiben Sie bitte eine E-Mail an die Administration (sona@uni-mainz.de), dass Sie auf die Genehmigung Ihrer Studie warten.
+
+<br>
+<b>So genehmigen Sie eine Studie, wenn Sie der P.I. sind: </b>
+
+
+1.	Loggen Sie sich mit Ihrem PI-Account auf https://uni-mainz-jgu.sona-systems.com ein.
+2.	Klicken Sie in der Menüleiste auf `My Studies` und klicken Sie auf den Titel der betreffenden Studie.
+3.	Wählen Sie im `Study Menu` (entweder oben oder ganz unten auf der Website) den Unterpunkt `Change Study Information` aus.
+4.  Klicken Sie unter `Approved?` auf "Yes". 
+5.	Klicken Sie auf den grünen Knopf `Save Changes`, um Ihre Änderungen zu speichern.
+
+
+## Warum ist eine Genehmigung meiner Studie durch den P.I. oder die Administration notwendig?
+
+Die Genehmigung Ihrer Studie ist eine Vorsichtsmaßnahme, damit den Versuchspersonen auf Sona nicht versehentlich Studien angezeigt werden, die noch nicht fertig eingestellt sind. Zudem sollte bei der Genehmigung geprüft werden, ob die grundlegenden Regeln von Sona (z.B. faire Vergabe von VP-Stunden, ausreichende Informationen zur Studie) eingehalten werden. 
 
 
 ## Wie nutze ich die Pre-Screen Funktion?
@@ -136,9 +163,10 @@ knitr::include_graphics('images/Folie16.png')
 6.	Klicken Sie auf `Save Changes`, um Ihre Eingabe zu speichern. Die Vorselektion der Versuchspersonen ist ab diesem Moment aktiv. 
 
 
+
 ## Timeslots für Studien erstellen und verwalten
 
-Timesslots (Zeitfenster) sind die verfügbaren Zeiten, zu denen eine Versuchsperson an Ihrer Studie teilnehmen kann. Mit Zeitfenstern können Sie ein Datum, eine Uhrzeit, einen Ort, eine maximale Teilnehmerzahl und eine\*n (oder mehrere) Forscher\*innen für eine Sitzung angeben. 
+Timeslots (Zeitfenster) sind die verfügbaren Zeiten, zu denen eine Versuchsperson an Ihrer Studie teilnehmen kann. Mit Zeitfenstern können Sie ein Datum, eine Uhrzeit, einen Ort, eine maximale Teilnehmerzahl und eine\*n (oder mehrere) Forscher\*innen für eine Sitzung angeben. 
 
 <br>
 <b>Timeslots für Laborstudien erstellen</b>
@@ -183,28 +211,15 @@ knitr::include_graphics('images/Folie18.png')
     b. <b>Löschen:</b> Sie können keine Timeslots löschen, für die sich bereits Versuchspersonen angemeldet haben. Dafür müssen Sie zuerst alle bestehenden Anmeldungen für diese Timeslots stornieren (sehen Sie hierzu den Abschnitt [Termine absagen / Versuchspersonen abmelden] in diesem Handbuch). Klicken Sie danach auf den Knopf `Delete` und bestätigen Sie Ihre Eingabe erneut, um den Timeslot zu löschen.
 
 
-## Wie lange dauert es, bis meine Studie auf Sona genehmigt („approved“) ist?
-
-Bevor Versuchspersonen Ihre Studie auf Sona angezeigt bekommen, muss die Administration auf Sona die Studie genehmigen („approven“). Im Regelfall sollte dies nicht länger als 48 Stunden dauern.
-
-Sollten Sie jedoch im Ausnahmefall länger als 48 Stunden keine Rückmeldung zu Ihrer Studie erhalten haben, schreiben Sie bitte eine E-Mail an die Administration (sona@uni-mainz.de), dass Sie auf die Genehmigung Ihrer Studie warten.
-
-
-## Welche Kriterien spielen bei der Genehmigung meiner Studie eine Rolle?
-
-Ihre Studie wird von der Administration geprüft („approved“), bevor Versuchspersonen sie auf Sona angezeigt bekommen. Hierbei handelt es sich lediglich um eine Überprüfung der angegebenen Informationen, ob beispielsweise die Studiendauer und die Anzahl der vergebenen VP-Stunden übereinstimmen. Wissenschaftliche oder ethische Gesichtspunkte der Studie werden nicht überprüft. 
-
-Bei der Überprüfung der Studie kann es vorkommen, dass Sie von der Administration darum gebeten werden, mehr Informationen zur Studie anzugeben oder bestimmte Einstellungen anzupassen. Dies kann die Genehmigung verzögern.
-
 
 ## Studieninformationen ändern
 
-Sie können jederzeit Informationen über Ihrer Studie aktualisieren. Bitte beachten Sie, dass einige Informationen je nach Status der Studie nicht mehr veränderbar sind (z.B., wenn sich bereits Versuchspersonen angemeldet haben) oder eine erneuten Genehmigung („approve“) der Studie durch die Administration erfordern.
+Sie können jederzeit Informationen über Ihrer Studie aktualisieren. Bitte beachten Sie, dass einige Informationen je nach Status der Studie nicht mehr veränderbar sind (z.B. wenn sich bereits Versuchspersonen angemeldet haben) oder eine erneuten Genehmigung („approve“) der Studie durch Ihren P.I. oder die Administration erfordern.
 
 1.	Loggen Sie sich mit Ihrem Forschenden-Account auf https://uni-mainz-jgu.sona-systems.com ein.
 2.	Klicken Sie auf `My Studies` und klicken Sie auf den Titel derjenigen Studie, die sie ändern wollen.
 3.	Wählen Sie im `Study Menu` (entweder oben oder ganz unten auf der Website) den Unterpunkt `Change Study Information` aus.
-4.	Machen Sie die gewünschten Änderungen und klicken Sie auf den grünen Knopf `Save Changes`, um Ihre Änderungen zu speichern. Falls Sie Informationen in Ihrer Studie ändern, die eine erneute Genehmigung durch die Administration erfordern, können Sie den Antrag wie bereits bei der ersten Genehmigung über das System senden (sehen Sie hierzu den Abschnitt [Studie auf „active“ setzen und genehmigen lassen]). 
+4.	Machen Sie die gewünschten Änderungen und klicken Sie auf den grünen Knopf `Save Changes`, um Ihre Änderungen zu speichern. Falls Sie Informationen in Ihrer Studie ändern, die eine erneute Genehmigung Ihrer Studie erfordern (beispielsweise die Anzahl an vergebenen VP-Stunden), gehen Sie genauso vor wie bei der ersten Genehmigung ([Studie genehmigen lassen ("approve")]). 
 
 
 ## Studien deaktivieren oder löschen 
@@ -245,7 +260,7 @@ Bitte sehen Sie ferner davon ab, Werbung für Ihre Studie über den E-Mail-Verte
 
 ## Ab wann können sich Versuchspersonen für meine Studie anmelden?
 
-Versuchspersonen können Ihre Studie erst in Sona sehen und sich für diese anmelden, wenn Ihre Studie sowohl „active“ als auch „approved“ ist. Sie können Ihre Studie selbst auf „active“ setzen, die Studie genehmigen („approve“) kann allerdings nur die Administration. Wie Sie Ihre Studie auf „active“ setzen und eine Genehmigung beantragen lesen Sie im Abschnitt [Studie auf „active“ setzen und genehmigen lassen].
+Versuchspersonen können Ihre Studie erst in Sona sehen und sich für diese anmelden, wenn Ihre Studie sowohl „active“ als auch „approved“ ist. Sie können Ihre Studie selbst auf „active“ setzen ([Studie auf „active“ setzen]), die Studie genehmigen kann allerdings nur der P.I. Ihrer Studie sowie die Administration ([Studie genehmigen lassen ("approve")]).
 
 
 ## Versuchspersonen manuell anmelden
@@ -389,16 +404,14 @@ Bei Laborstudien zählt eine ggf. nötige Vor- und Nachbereitungszeit, bei der d
 
 ## Was ist, wenn eine Studie länger oder kürzer dauert als geplant?
 
-Wenn eine Laborstudie länger dauert als geplant, können Sie die vergebenen VP-Stunden anpassen (lesen Sie auch den Abschnitt [Wie vergebe ich VP-Stunden für Laborstudien?]). Fügen Sie bei der Vergabe der VP-Stunden bitte einen entsprechenden Kommentar bei. 
+Wenn eine Laborstudie länger oder kürzer dauert als geplant, können Sie die vergebenen VP-Stunden anpassen (lesen Sie auch den Abschnitt [Wie vergebe ich VP-Stunden für Laborstudien?]). Fügen Sie bei der Vergabe der VP-Stunden bitte einen entsprechenden Kommentar bei. Wenn eine Versuchspersonen die Teilnahme an Ihrer Studie abbricht, vergeben Sie bitte so viele VP-Stunden, wie die Versuchsperson Zeit im Experiment verbracht hat. 
 
-Wenn eine Versuchsperson in Ihre Studie schneller bearbeitet hat als geplant, müssen Sie ihr dennoch die in der Studienbeschreibung genannten VP-Stunden vergeben. Nur wenn Versuchspersonen die Teilnahme an Ihrer Studie abbrechen, können Sie weniger VP-Stunden vergeben. Vergeben Sie in diesem Fall bitte so viele VP-Stunden, wie die Versuchsperson Zeit im Experiment verbracht hat. 
-
-Vergeben Sie bei Online-Studien bitte immer die in der Studienbeschreibung genannten VP-Stunden, vorausgesetzt die Versuchsperson hat vollständig an Ihrer Studie teilgenommen. Falls nicht, vergeben Sie bitte 0 (null) VP-Stunden.
+Vergeben Sie bei Online-Studien bitte immer die in der Studienbeschreibung genannten VP-Stunden, vorausgesetzt die Versuchsperson hat vollständig an Ihrer Studie teilgenommen. Falls nicht, vergeben Sie bitte null VP-Stunden und tragen Sie diese Person als Excused No-Show ein ([Was tue ich, wenn angemeldete Versuchspersonen nicht zu ihrem Termin erscheinen?]).
 
 
 ## Kann ich die Versuchsteilnahme durch besondere Anreize (z.B. Teilnahme an einer Lotterie) zusätzlich vergüten?
 
-Aus Gründen der Fairness gegenüber anderen Forschenden ist es nicht vorgesehen, dass Studien, die mit VP-Stunden vergütet werden, zusätzlich mit Geld oder einer alternativen Vergütung entlohnt werden. Wahlweise eine Alternative zur Vergütung mit VP-Stunden anzubieten (z.B. VP-Stunden <i>oder</i> Geld) ist natürlich zulässig. Von dieser Regel ausgenommen sind kleine nicht-monetäre Anreize während der Studie wie z.B. Schokolade. Weiterhin können bei Studien, deren Versuchsdesign das Auszahlen zusätzlicher Anreize vorsieht (z. B. im Rahmen leistungsabhängiger Belohnung), Ausnahmen gemacht werden. Kontaktieren Sie dazu im Zweifelsfall die Administration, um Details zu besprechen.
+Aus Gründen der Fairness gegenüber anderen Forschenden ist es nicht vorgesehen, dass Studien, die mit VP-Stunden vergütet werden, zusätzlich mit Geld oder einer alternativen Vergütung entlohnt werden. Wahlweise eine Alternative zur Vergütung mit VP-Stunden anzubieten (z.B. VP-Stunden <i>oder</i> Geld) ist natürlich zulässig. Von dieser Regel ausgenommen sind kleine nicht-monetäre Anreize während der Studie wie z.B. Schokolade. Weiterhin können bei Studien, deren Versuchsdesign das Auszahlen zusätzlicher Anreize vorsieht (z.B. im Rahmen leistungsabhängiger Belohnung), Ausnahmen gemacht werden. Dasselbe gilt für mehrteilige Studien, in denen eine kleine Prämie für die Teilnahme an allen Messzeitpunkten ausgestellt werden kann.
 
 
 ## Wie vergebe ich VP-Stunden für Laborstudien? 
