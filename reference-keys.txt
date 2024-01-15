@@ -6,11 +6,11 @@ rollen-im-system
 kann-ich-die-website-auch-auf-deutsch-sehen
 studien-einstellen-und-verwalten
 studien-einstellen
-studie-auf-active-setzen-und-genehmigen-lassen
+studie-auf-active-setzen
+studie-genehmigen-lassen-approve
+warum-ist-eine-genehmigung-meiner-studie-durch-den-p.i.-oder-die-administration-notwendig
 wie-nutze-ich-die-pre-screen-funktion
 timeslots-für-studien-erstellen-und-verwalten
-wie-lange-dauert-es-bis-meine-studie-auf-sona-genehmigt-approved-ist
-welche-kriterien-spielen-bei-der-genehmigung-meiner-studie-eine-rolle
 studieninformationen-ändern
 studien-deaktivieren-oder-löschen
 wie-darf-ich-für-die-teilnahme-an-meiner-studie-werben
