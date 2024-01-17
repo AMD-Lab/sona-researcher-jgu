@@ -422,7 +422,7 @@ Wenn Versuchspersonen erfolgreich an Ihrer Laborstudie teilgenommen haben, verge
 2.	Wählen Sie im Study Menu (ganz oben und ganz unten auf der Seite) den Punkt `View/Admister Time Slots`. 
 3.	Klicken Sie beim Timeslot der betreffenden Versuchsperson rechts auf `Modify`.
     a.	Klicken Sie bei `Credit Granted` auf den kleinen Punkt, um die angezeigt Anzahl an VP-Stunden zu vergeben.
-    b.	Falls die Studie länger gedauert hat als geplant oder die Versuchsperson die Studie abgebrochen hat, können Sie die Anzahl der vergebenen VP-Stunden im Drop-Down Menü unter dem Punkt anpassen. Hinterlassen Sie in diesem Fall bitte einen kurzen Kommentar in der Spalte rechts. Sie müssen, sofern die Versuchsperson vollständig an Ihrer Studie teilgenommen hat, immer mindestens die in der Studienbeschreibung genannten VP-Stunden vergeben. Selbst, wenn die Versuchsperson Ihre Studie sehr schnell bearbeitet hat. Nur wenn Versuchspersonen die Teilnahme an Ihrer Studie abbrechen können Sie weniger VP-Stunden vergeben.
+    b.	Falls die Studie länger oder kürzer gedauert hat als geplant oder die Versuchsperson die Studie abgebrochen hat, können Sie die Anzahl der vergebenen VP-Stunden im Drop-Down Menü unter dem Punkt anpassen. Hinterlassen Sie in diesem Fall bitte einen kurzen Kommentar in der Spalte rechts.
     c. Falls Sie alternativ zu VP-Stunden eine andere Vergütung für die Studienteilnahme angeboten haben und die Versuchsperson diese alternative Vergütung gewählt hat, wählen Sie bitte unter `Credit granted` 0 VP-Stunden aus. Vermerken Sie die alternative Vergütung bitte in der Kommentarspalte rechts.
 4.	Klicken Sie auf `Update Sign-Ups`, um Ihre Eingabe zu speichern.
 
