@@ -416,7 +416,7 @@ Aus Gründen der Fairness gegenüber anderen Forschenden ist es nicht vorgesehen
 
 ## Wie vergebe ich VP-Stunden für Laborstudien? 
 
-Wenn Versuchspersonen erfolgreich an Ihrer Laborstudie teilgenommen haben, vergeben Sie bitte die entsprechenden VP-Stunden innerhalb von 3 Werktagen. 
+Wenn Versuchspersonen erfolgreich an Ihrer Laborstudie teilgenommen haben, vergeben Sie bitte die entsprechenden VP-Stunden innerhalb von 3 Werktagen.  
 
 1.	Klicken Sie in der Menüleiste auf `My Studies` und klicken Sie auf den Namen der betreffenden Studie. 
 2.	Wählen Sie im Study Menu (ganz oben und ganz unten auf der Seite) den Punkt `View/Admister Time Slots`. 
